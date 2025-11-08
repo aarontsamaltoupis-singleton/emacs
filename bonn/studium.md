@@ -1,0 +1,79 @@
+
+* Bonn
+Studium Mathematik: https://www.uni-bonn.de/de/studium/studienangebot/studiengaenge-a-z/mathematik-bsc
+        -"Zulassungsbeschränkung: zulassungsfrei"
+
+telefonische Kurzberatung: https://www.uni-bonn.de/de/studium/beratung-und-service/zentrale-studienberatung/studienberatung
+        montag, dienstag, donnerstag, 8.30 - 10.30, 14.30-15.30 +49 228 37-7080
+
+fachspezifische Beratung: https://www.uni-bonn.de/de/studium/beratung-und-service/fachstudienberatung
+
+**  Vorkurs:
+*** Vorkurs Mathematik Hauptfach
+https://www.uni-bonn.de/de/studium/organisation-des-studiums/studienstart/vorkurse/vorkurs-mathematik-hauptfach
+Zeitraum: 29.09.25 - 10.10.25
+Uhrzeit: 11.00-13.00
+Ort: Großer Hörsaal der Mathematik, Wegelerstr. 10
+Dozent: Dr. Michael Welter
+
+*Anmeldung möglich ab 1.08.25*
+
+** Studienverlauf
+*** 1. Semester
+ - Analysis I, Lineare Algebra I, Algorithmische Mathematik I
+
+*** 2. Semester
+- Analysis II
+- Lineare Algebra II
+- Algorithische Mathematik II
+- Seminar
+*** 3. Semester
+- Einführung in das Nebenfach
+- Einführende Vorlesungen aus den Wahlpflichtmodule: Bereichen A- F
+
+### Wahlpflichtmodule:
+Semester 3:
+- A) Algebra, Zahlentheorie, Logik
+- B) Analysis, Differentialrechnung
+- C) Diskrete Mathematik
+- D) Geometrie, Topologie
+- E) Numerik, wissenschaftliches Rechnen
+- F) Stochastik
+*** Praktikum
+- Empfohlen im 4. und 5. Semester
+- Wahl zwischen:
+  - Programmierpraktikum
+  - Industriepraktikum
+  - Tutorenpraktikum
+*** Nebenfach
+- erste einführende nebenfachvorlesung im 2. bis 3. Semester
+- klassische Nebenfächer:
+  - Physik
+  - Informatik
+  - Volkswirtschaftslehre
+
+*** Bachelorarbeit
+- 5. Semester: spätester Zeitpunkt für Festlegung auf ein Spezialisierungsgebiet
+
+** Bewerbungsfristen
+- Online Bewerbung: 15. 07. 25 -- Bekanntgabe der Ergebnisse Ende Juli im Bewerbungsportal
+  *Bewerbung*: https://www.uni-bonn.de/de/studium/bewerbung-zulassung-und-einschreibung/bewerbungsguide/bewerbungsguide?course-name=Mathematik+%7C+Bachelor+of+Science+%7C+Ein-Fach&course-uid=11632f5c4fcc4bbf96c419fc8acbafde&heeq=heeq_german&form.wigdet.uni-email=&tigger=
+
+** Wohnungssuche
+
+* Berlin
+Bewerbungsfrist:
+Mathe, da kein NC fach: 31.08.25
+https://www.hu-berlin.de/de/studium/bewerbung/fristen/frist
+
+* Leipzig
+** Einführungstag
+- willkommenstag: 8.10. Campus Augustusplatz
+
+  Informationen zu veranstaltungen:
+
+  https://www.uni-leipzig.de/studium/im-studium/immatrikulation-und-studienstart/studienstart
+
+
+** Unicard
+https://www.uni-leipzig.de/studium/im-studium/studienorganisation/unicard

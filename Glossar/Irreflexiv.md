@@ -1,0 +1,1 @@
+Sei $R\subseteq M\times M$ eine [[Relation]] auf $M.$

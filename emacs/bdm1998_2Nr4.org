@@ -1,0 +1,24 @@
+#+title: Bdm1998 2nr4
+
+* Aufgabe:
+
+Im Innern eines konvexen Polyeders $$ P$$ mit dem Rauminhalt $$ 2^n $$ seien $$ 3\cdot (2^n -1) $$ Punkte gewählt $$ n\in \mathbb{N} $$.
+
+Man beweise, dass $$P$$ ein konvexes Polyeder mit dem Rauminhalt $$1$$ enthält, in dessen Innerem keiner der gewählten Punkte liegt.
+
+
+* Beweis
+** Beweis durch Induktion
+*** Induktionsanfang
+Sei ein Polyeder  des Volumens $$2^1$$, der $$3\cdot (2^1 -1) = 3 $$ Punkte enthält.
+
+Die Drei Punkte definieren eine Fläche, die den Polyeder in zwei kleinere Polyeder unterteilt, einer davon ist größer gleich $$ \frac{2^1}{2} = 1 $$ und entält keine Punkte.
+
+*** Induktionshypothese
+Sei ein Polyeder des Volumens $$ 2^{n}$$, der $$ 3\cdot (2^n -1)$$ Punkte enthält. Sei der Polyeder enthält ein Polyeder des Volumens $$1$$, der keine Punkte im Inneren enthält.
+
+
+*** Induktionsschritt
+Sei ein Polyeder des Volumens $$2^{n+1}$$, der $$3\cdot (2^{n+1} -1)$$ Punkte enthält.
+Es können 3 Punkte gefunden werden,  die eine Fläche definieren, die den Polyeder in zwei Hälften unterteilen, von denen jede Hälfte weniger gleich $$ \frac{3(2^{n+1} -1) -3}{2}= 3(2^n -1) $$ Punkte enthält.
+Eine der beiden Hälften ist größer gleich $$ \frac{2^{n+1}}{2} = 2^n$$, nach der [[*Induktionshypothese]] enthält diese ein Polyeder des volumens 1, das keine punkte enthält.
