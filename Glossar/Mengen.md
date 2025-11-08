@@ -1,9 +1,10 @@
 ---
 id: Mengen
-aliases: []
-tags: []
+aliases:
+  - sets
+tags:
+  - Tao_Analysis1
 ---
-[
 
 
 Alle mathematischen Strukuren können mithilfe von Mengen definiert werden.
