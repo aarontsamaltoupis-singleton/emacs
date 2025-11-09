@@ -1,6 +1,10 @@
 ---
 id: Aequivalenzrelationen_equivalence_relations
 aliases:
+<<<<<<< HEAD
+=======
+  - equivalence relations
+>>>>>>> 3ec1b7f857816bb95ce1f93d90fd15646aef0cc4
 tags: []
 ---
 
@@ -15,3 +19,4 @@ $\sim$ ist eine Äquivalenzrelation, wenn sie folgende Eigenschaften hat:
 # Beispiele
 - Kongruenz modulo n
 - 
+
