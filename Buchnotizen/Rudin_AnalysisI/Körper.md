@@ -1,3 +1,14 @@
+---
+aliases:
+  - Koerper
+  - field
+tags:
+  - Rudin
+id: rudin_koerper
+---
+
+
+
 **Definition**
 Ein Körper ist eine Menge $K$ mit zwei Operationen: [[#Addition]] und [[#Multiplikation]], die durch folgende **Körperaxiome** definiert sind:
 

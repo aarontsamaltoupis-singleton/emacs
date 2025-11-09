@@ -12,7 +12,7 @@ import java.lang.Math;
 public final class Math
 	public static final double PI = 3.1415926535;
 
-PI: name der variable
+PI: name der ovariable
 final: PI ist konstante, wert kann nicht verändert werden
 static: die funktion braucht keine INstanz, durch Klassenname kann darauf zugegriffen werden: 
 	Math.PI

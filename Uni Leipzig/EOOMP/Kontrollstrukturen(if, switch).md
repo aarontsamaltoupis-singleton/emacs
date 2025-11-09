@@ -1,3 +1,10 @@
+---
+aliases:
+  - if
+  - switch
+---
+
+
 # Bedingte Anweisungen
 ## if
 

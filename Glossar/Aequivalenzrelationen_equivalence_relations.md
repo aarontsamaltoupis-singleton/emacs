@@ -1,6 +1,6 @@
 ---
 id: Aequivalenzrelationen_equivalence_relations
-aliases: []
+aliases:
 tags: []
 ---
 
