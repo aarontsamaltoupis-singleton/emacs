@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ordnungsrelation
+---
 Sei $M$ eine [[Glossar/Mengen|Menge]]. Eine **Ordnung** auf $M$ ist eine [[Relation]], üblicherweise mit $<$ bezeichnet, welche die folgenden Eigenschaften hat: 
 
 i) Die Relation ist [[vollständig]].
