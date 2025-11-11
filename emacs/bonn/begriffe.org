@@ -1,5 +1,0 @@
-#+title:Begriffe Bonn
-
-
-* Lemma/Theorem/Korollar
-- Aussage, die mithilfe logischer Schlussregeln und ggf. Axiomen *bewiesen* wird. Die verschiedenen Namen ordnen die Wichtigkeit der jeweiligen Aussage ein, es gibt aber keine logische Abgrenzung.

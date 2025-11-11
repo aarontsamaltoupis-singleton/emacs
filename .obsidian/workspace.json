@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8e180b9a4ef04de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cccd150379b9956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d664574e20daa01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Satz.N0 ist die kleinste unendliche Kardinalitaet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Satz.N0 ist die kleinste unendliche Kardinalitaet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3893b03c866c62c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e089661718e71ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7743f77ca88d5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "034d072469cff048",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d8b81fba94e4b6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7886860cf95b81f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61796b91f5721190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e315a2dcb80a694c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8017676b6d755d98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "40b5ffdb14b290f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a2fac115e2131dea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d664574e20daa01",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "Uni Leipzig/EOOMP/java methoden_Klassen.md",
+    "Uni Leipzig/EOOMP/Kontrollstrukturen(if, switch).md",
+    "Uni Leipzig/EOOMP",
+    "Uni Leipzig",
+    "Satz.N0 ist die kleinste unendliche Kardinalitaet.md",
+    "Satz. Betrag M kleiner Betrag der Powermenge von M.md",
+    "Ordnungsrelation auf Kardinalitaeten.md",
+    "Glossar/equivalence classes.md",
+    "Glossar/Ordnung.md",
+    "Glossar/Aequivalenzrelationen_equivalence_relations.md",
+    "Glossar",
+    "Cantor-Schroeder-Bernstein.md",
+    "Buchnotizen/the art and craft of problem solving/Graph theory.md",
+    "Buchnotizen/how_to_prove_it_a_structured_approach/strong induction.md",
+    "Buchnotizen/The best writing in mathematics 2021/Cryptocurrencies Protocols for Consensus.md",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao/rationals.md",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao/The Peano axioms.md",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao/Russel's Paradox.md",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao/Recursive Definitions.md",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao/Images_reverse_images_bild.md",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao/Addition.md",
+    "Buchnotizen/Rudin_AnalysisI/transitive Eigenschaft.md",
+    "Buchnotizen/Rudin_AnalysisI/metrische Raeume.md",
+    "Buchnotizen/Rudin_AnalysisI/beschränkte mengen.md",
+    "Buchnotizen/Rudin_AnalysisI/Zahlenfolgen und Reihen.md",
+    "Buchnotizen/Rudin_AnalysisI/Körper.md",
+    "Buchnotizen/Rudin_AnalysisI/Konstruktion von R aus Q.md",
+    "Buchnotizen/the art and craft of problem solving",
+    "Buchnotizen/how_to_prove_it_a_structured_approach",
+    "Buchnotizen/The best writing in mathematics 2021",
+    "Buchnotizen/Texts_and_readings_in_mathematics-TerenceTao",
+    "Buchnotizen/Rudin_AnalysisI",
+    "Buchnotizen/Linear Algebra done wrong",
+    "Buchnotizen/Amann_Escher_AnalysisI"
+  ]
+}
