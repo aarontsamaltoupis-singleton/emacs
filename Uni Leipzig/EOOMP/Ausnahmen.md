@@ -1,0 +1,6 @@
+---
+aliases:
+  - Throwable
+  - Exceptions
+---
+# Thro
