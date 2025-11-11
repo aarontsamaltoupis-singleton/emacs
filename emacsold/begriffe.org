@@ -1,0 +1,6 @@
+#+title: Begriffe
+
+
+* Funktionen
+
+** injektivität

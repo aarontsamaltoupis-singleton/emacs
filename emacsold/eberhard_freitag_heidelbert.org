@@ -1,0 +1,36 @@
+#+title: Eberhard Freitag Heidelbert
+
+* Axiomatische Einführung der reellen Zahlen :Mengenlehre:
+
+
+** 0.Axiom
+Die reellen Zahlen sind die Elemente einer gewissen Menge $$ \mathbb{R}$$, die mindestens zwei Elemente enthält.
+
+** I: Köperaxiome
+Für die Menge $$ \mathbb{R} $$ der reellen Zahlen sind zwei Kompositionen ausgezeichnet. Die *Addition* und die *Multiplikation*.
+
+Dabei gelten folgende Eigenschaften:
+
+1. *Assoziativität*
+   $$ a+(b+c) = (a+b) + c$$
+   $$ a(bc) = (ab)c $$
+
+2. *Kommutativität*
+   $$ a+b = b+a$$
+   $$ ab = ba$$
+
+3. Beide Kompositionen Addition und Multiplikation haben ein *neutrales Element* $$ b$$ , sodass $$ a \cdot b  = a$$, $$ a + b = a $$.
+  $$ a + 0 = a $$
+  $$ a \cdot 1 = a $$
+
+4. In beiden Kompositionen gibt es ein eindeutiges Element b, sodass a x b das neutrale Element ergibt:
+   $$a + b = a + (-a) = 0$$ *negatives Element*
+   $$ a\cdot b = a\cdot \frac{1}{a} = 1 $$ *inverses Element*
+
+5. *Distributivität*:
+   $$ \forall a,b,c \in \mathbb{R}(a(b+c) = ab + ac) $$
+
+** II: Anordnungsaxiome
+
+
+** III: Vollständigkeitsaxiom
