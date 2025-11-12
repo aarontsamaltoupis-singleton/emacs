@@ -1,3 +1,5 @@
+$a\equiv b \mod n$, dann haben a und b bei der Division durch n den gleichen Rest.
+
 Seien $a,b\in \mathbb{Z}$, sei $n\in \mathbb{N}^{+}$
 Dann 
 $a\equiv b \mod n\iff n|(b-d)$
