@@ -27,3 +27,23 @@ Zu zeigen ist, dass wenn eine Teilfolge von a  gegen a konvergiert, dann ist lim
 Die Folge a ist beschränkt (beweis nötig)
 
 
+# Ansatz
+folgere zunaechst aus der zweiten Bedingung die cauchy bedingung.
+
+an konvergiert dann garantiert gegen einen Wert b.
+Sei $b\neq a$.
+Folgere daraus einen Widerspruch. Genauer: Finde ein 
+
+Sei ein $\varepsilon < \frac{b-a}{4}$ gewaehlt.
+Da $b_n$ gegen a konvergiert, gibt es ein $N\in\mathbb{N}$, sodass $\forall n>N: |b_n-a|<\frac{\varepsilon}{2}$.
+Sei spezifisch ein $n>N$ gewaehlt, sodass $|a_{n_0}-b|<\frac{\varepsilon}{2}, \forall n_0>n$
+
+Sei nun $2n>n$ gewaehlt.
+
+$b_{2n} =$
+
+Es gilt 
+
+
+
+
