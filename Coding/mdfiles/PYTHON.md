@@ -13,7 +13,7 @@ aliases:
     [.get() method](##get_method)
 [strings](##Strings)
     [printing only parts of the string](###printing parts of the string)
-   [adding variables to strings](###adding variables to strings)
+   [adding variables to strings](### adding variables to strings)
    [finding specific words in strings](##find() method))
 [lists](##lists)
     [check if list is contained in other list](###check if list is contained in other list)
