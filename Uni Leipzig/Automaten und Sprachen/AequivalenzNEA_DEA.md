@@ -3,6 +3,7 @@
 # Beweisidee
 Beweis durch [[Potenzmengenkonstruktion]].
 
+
 # Definitionen
 Sei $\mathcal{A} = (Q,\Sigma,q_{0},\Delta,F)$ ein [[Nichtdeterministische endliche Automaten (NEA)|NEA]].
 
