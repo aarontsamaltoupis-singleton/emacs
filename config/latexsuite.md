@@ -19,8 +19,8 @@
 
 
 
-    {trigger: "([^'])\\b((?![aAIr])[a-zA-Z])\\b([\\n\\s\\.,])", replacement: "[[0]]$[[1]]$[[2]]", options: "rtA", description: "Automatically treat lone characters as math (except a, A, I)"},
-{trigger: "\\b(-?\\d*\\.?\\d+)\\b(\\s|,|\\.\\s)", replacement: "$\\hspace{0pt}[[0]]$[[1]]", options: "rtA", description: "Automatically convert numbers to math"},
+// {trigger: "([^'])\\b((?![aAIr])[a-zA-Z])\\b([\\n\\s\\.,])", replacement: "[[0]]$[[1]]$[[2]]", options: "rtA", description: "Automatically treat lone characters as math (except a, A, I)"},
+//{trigger: "\\b(-?\\d*\\.?\\d+)\\b(\\s|,|\\.\\s)", replacement: "$\\hspace{0pt}[[0]]$[[1]]", options: "rtA", description: "Automatically convert numbers to math"},
     
     // Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
@@ -39,7 +39,7 @@
 	{trigger: "@G", replacement: "\\Gamma", options: "mA"},
 	{trigger: "@d", replacement: "\\delta", options: "mA"},
 	{trigger: "@D", replacement: "\\Delta", options: "mA"},
-	{trigger: "@e", replacement: "\\epsilon", options: "mA"},
+	{trigger: "@e", replacement: "\\varepsilon", options: "mA"},
 	{trigger: ":e", replacement: "\\varepsilon", options: "mA"},
 	{trigger: "@z", replacement: "\\zeta", options: "mA"},
 	{trigger: "@t", replacement: "\\theta", options: "mA"},
@@ -123,7 +123,7 @@
 
     // Symbols
     {trigger: "ooo", replacement: "\\infty", options: "mA"},
-	{trigger: "sum", replacement: "\\sum", options: "mA"},
+	{trigger: "sum", replacement: "\\sum\\limits^{ ${0:n}}_{${1:k=0}}", options: "mA"},
 	{trigger: "prod", replacement: "\\prod", options: "mA"},
 	{trigger: "\\sum", replacement: "\\sum_{${0:i}=${1:1}}^{${2:N}} $3", options: "m"},
 	{trigger: "\\prod", replacement: "\\prod_{${0:i}=${1:1}}^{${2:N}} $3", options: "m"},
