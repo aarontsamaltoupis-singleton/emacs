@@ -1,6 +1,8 @@
 ---
 tags:
   - hirsch
+aliases:
+  - Haeufungspunkt
 ---
 
 # Definition 4.18 (Teilfolgen)

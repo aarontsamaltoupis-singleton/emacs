@@ -34,16 +34,8 @@ Sei $E$ eine Teilmenge der [[Die erweiterte reelle Zahlengerade|erweiterten reel
 Sei eine Folge $\{ s_{n} \}$
 
 Sei  $E=\{ x: \text{Eine Teilfolge von } \{ s_{n} \text{ konvergiert gegen }x\} \}$.
-
+- $x$ kann dabei auch $\pm \infty sein$
+- 
 Sei 
 $s^{*}=\sup E$ (Limes superior)
 $s_{*}=\inf E$ (Limes inferior)
-
-
-
-
-
-
-
-
-
