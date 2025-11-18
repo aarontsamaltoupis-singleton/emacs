@@ -1,6 +1,10 @@
 ---
 id: I Die reellen Zahlen
-aliases: []
+aliases:
+  - anordnungsaxiome
+  - Koerperaxiome
+  - Vollstaendigkeitsaxiom
+  - Rechnen mit Betrag
 tags: []
 ---
 

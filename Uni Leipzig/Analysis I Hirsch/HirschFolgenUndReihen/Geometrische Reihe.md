@@ -1,0 +1,1 @@
+gezeigt, dass konvergiert
