@@ -1,6 +1,11 @@
 ---
 id: 4 Folgen, Reihen und Potenzwerte
-aliases: []
+aliases:
+  - Konvergenz
+  - Sandwich Satz
+  - Monotonie der Grenzwerte
+  - epsilon Ball
+  - Eindeutigkeit der Grenzwerte
 tags: []
 ---
 
