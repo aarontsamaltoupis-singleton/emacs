@@ -57,5 +57,5 @@ public class Kreis implements Statistik {
 
 ```
 - Die funktionen aus dem interface müssen in den einzelnen Klassen, die das interface implementieren trotztdem noch definiert werden
-
+	
 `@Override` ist optional
