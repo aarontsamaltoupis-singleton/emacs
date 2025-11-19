@@ -66,7 +66,7 @@ $y\in \{ x\in A:P(x) \}\iff(y\in A\land P(y))$
 
 
 ## Axiom 3.10 (Power set axiom)
-Let $X$ and $Y$ be sets. Then there exists a set,  denoted $Y^{X}$ which consists of all the [[Funktion_Abbildung|functions]] from $X$ to $Y$, thus
+Let $X$ and $Y$ be sets. Then there exists a set,  denoted $Y^{X}$ which consists of all the [[Funktionen|functions]] from $X$ to $Y$, thus
 $f\in Y^{X}\iff$($f$ is a function with domain $X$ and range $Y$)
 
 ### Remark 3.4.10 (Power set)

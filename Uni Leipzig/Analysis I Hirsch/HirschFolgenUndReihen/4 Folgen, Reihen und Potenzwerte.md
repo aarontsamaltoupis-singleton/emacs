@@ -10,7 +10,7 @@ tags: []
 ---
 
 # Definition 4.1: Folge
-Einne Folge von reellen Zahlen ist eine [[Funktion_Abbildung|Abbildung]] $N\to \mathbb{R}$ 
+Einne Folge von reellen Zahlen ist eine [[Funktionen|Abbildung]] $N\to \mathbb{R}$ 
 d. h. wir ordnen jedem $n\in \mathbb{N}$ ein $a_{n}\in \mathbb{R}$ zu.
 
 Wir schreiben $(a_{n})_{n\in \mathbb{N}}$.

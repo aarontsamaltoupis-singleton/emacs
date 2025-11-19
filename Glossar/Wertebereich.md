@@ -1,1 +1,1 @@
-Der Wertebereich einer [[Funktion_Abbildung]]
+Der Wertebereich einer [[Funktionen]]

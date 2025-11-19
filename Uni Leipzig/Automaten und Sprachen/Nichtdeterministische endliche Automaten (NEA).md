@@ -1,5 +1,5 @@
 - Für einen gegebenen Zustand und ein gelesenes Symbo *mehr als ein möglicher Übergang* erlaubt.
-- Die Übergangs[[Funktion_Abbildung|funktion]] wird durch eine Übergangs[[Relation|relation]] ersetzt.
+- Die Übergangs[[Funktionen|funktion]] wird durch eine Übergangs[[Relation|relation]] ersetzt.
 - Es werden die Wörter akzeptiert, für die es zumindest eine Möglichkeit gibt zu einem akzeptierten Zustand zu gelangen.
 
 # Definition NEA

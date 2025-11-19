@@ -184,7 +184,7 @@ $$
 
 
 ## Definition 2.4 Teil 2
-[[Funktion_Abbildung|Abbildungen]] max/min: 
+[[Funktionen|Abbildungen]] max/min: 
 
 **Definition des Maximum:**
 $$

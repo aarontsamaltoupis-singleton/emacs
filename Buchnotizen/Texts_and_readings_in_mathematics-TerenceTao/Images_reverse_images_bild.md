@@ -1,6 +1,6 @@
 #Tao_Analysis1
 # Definition 3.4.1 (Images of sets)
-If $f:X\to Y$ is a [[Funktion_Abbildung#Tao, Analysis I|function]] from $X$ to $Y$, and $S$ is a set in $X$, we define $f(S)$ to be the set 
+If $f:X\to Y$ is a [[Funktionen#Tao, Analysis I|function]] from $X$ to $Y$, and $S$ is a set in $X$, we define $f(S)$ to be the set 
 $f(S):=\{ f(x):x\in S \}\subseteq Y$
 
 This subset of Y is called the image of S under f.

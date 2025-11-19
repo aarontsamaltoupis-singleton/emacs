@@ -1,3 +1,9 @@
+---
+aliases:
+  - mapping
+  - function
+  - Abbildung
+---
 [[injektiv_injective_one-to-one|injektive Funktionen]]
 [[bijektiv|bijektive Funktionen]]
 [[surjektiv_onto_functions|surjektive Funktionen]]
