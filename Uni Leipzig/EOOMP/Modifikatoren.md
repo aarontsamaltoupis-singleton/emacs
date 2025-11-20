@@ -5,7 +5,7 @@
 	bspw:  
 	double a = Math.PI;
 		'new' ist nicht nötig, da keine Instanz kreiert wird
-
+- auch auf variblen kann ohne instanz zugegrifen werden
 
 # final
 - kennzeichnet **Konstanten**

@@ -1,3 +1,12 @@
+---
+aliases:
+---
+- Sammlugn vo nMethoden ohne Implementierung
+	- interface enthält nur [[Deklaration einer Methode|Methodendeklarationen]]
+- dient zur Erzwingung einer bestimmten Struktur
+- legen fest, dass es diese Methode geben muss, aber nicht, wie diese Methode dann tatsächlich aussieht
+- Eine klasse kann mehrere Interfaces implementeieren, aber nur von einer Klasse [[Erweiterung|erben]] 
+
 # Grammatik
 ```
 public abstract interface Name {
@@ -58,4 +67,5 @@ public class Kreis implements Statistik {
 ```
 - Die funktionen aus dem interface müssen in den einzelnen Klassen, die das interface implementieren trotztdem noch definiert werden
 	
-`@Override` ist optional
+`@Override` ist optional, sollte aber zum Schutz vor Fehler genutzt werden
+[[Override]]
