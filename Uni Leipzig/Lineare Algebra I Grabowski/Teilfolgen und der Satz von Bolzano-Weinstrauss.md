@@ -10,7 +10,7 @@ Sei $(a_{n})_{n}$ eine Folge und $(n_{k})_{k}$ eine aufsteigende ([[4.3 Monotone
 d.h. $n_{k}<n_{k+1}, \forall k$, dann heißt $(a_{n_{k}})_{k}$ **Teilfolge** von $(a_{n})_{n}$.
 
 # Bemerkung: 
-Wenn $a_{n}$ konvergent, dann ist auch jede Teilfolge konvergent
+Wenn $a_{n}$ konvergent mit $\lim\limits_{ n \to \infty }a_{n}=a$, dann konvergiert jede Teilfolge zu diesem Wert.
 # Definition 4.19 (Häufungspunkt)
 Sei $(a_{n})_{n}$ eine Folge, so heißt $a\in \mathbb{R}$ Häufungspunkt, falls es eine Teilfolge $(a_{n_{k}})_{k}$ gibt, mit $\lim\limits_{ n \to \infty }a_{n_{k}}=a$.
 
