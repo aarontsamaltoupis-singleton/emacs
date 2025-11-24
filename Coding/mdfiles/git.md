@@ -116,7 +116,7 @@ git  pull origin master
 
 
 
-## git status
+# git status
 each file in the working directory is either tracked or untracked
 tracked files are files git knows about
 
@@ -124,3 +124,6 @@ untracked files are files are files in the workingdirectory git doesn't know abo
 
 determine the state of you files:
 git status
+
+## discard staged changes
+git restore --staged
