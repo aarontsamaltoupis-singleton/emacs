@@ -2,6 +2,7 @@
 aliases:
   - Throwable
   - Exceptions
+  - Error
 ---
 - trennt Ausnahmesituationen von gewöhnlichen Situationen, lässt unterschiedliche Behandlung zu
 - 
@@ -39,3 +40,7 @@ public Kugel(double radius)throws Exception{
 - Programm hat keinen Einfluss
 - sollten weder geworfen, noch gefangen werden
 - bsp: zu wenig speicher
+
+
+
+# Eigene Throwables

@@ -127,3 +127,7 @@ git status
 
 ## discard staged changes
 git restore --staged
+
+# Reset to remote
+git fetch
+git reset --hard origin/main
