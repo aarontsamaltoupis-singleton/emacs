@@ -10,3 +10,22 @@
 Zu 2): 
 i.intValue() ist eine Methode der Integer Klasse, die den Value des Integers ausgibt. j wird diesm Wert gleichgesetzt.
 
+
+
+
+Typ
+int i
+double d
+boolean bSource-CodeAktion
+System.out.println(i);
+System.out.println(d);
+System.out.println(b);System.out.println(Integer.toString(i));
+System.out.println(Double.toString(d));
+System.out.println(Boolean.toString(b));
+Integer i
+Double d
+Boolean bSystem.out.println(i);
+System.out.println(d);
+System.out.println(b);System.out.println(i.toString());
+System.out.println(d.toString());
+System.out.println(b.toString());
