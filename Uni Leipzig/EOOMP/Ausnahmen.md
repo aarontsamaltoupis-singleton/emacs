@@ -44,3 +44,6 @@ public Kugel(double radius)throws Exception{
 
 
 # Eigene Throwables
+
+
+# Eigene Exceptions erstellen

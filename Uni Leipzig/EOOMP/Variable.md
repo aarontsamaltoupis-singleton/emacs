@@ -25,21 +25,6 @@ variable in methode deklariert, sobald methode abgeschlossen ist, gibt es variab
 Lokale Variablen existieren nur in der Methode, in der sie deklariert wurden
 Auch methoden innerhalb einer methode haben keinen Zugriff auf lokale Variblen dieser Methode (es sei denn ,sie wird als parameter übergeben)
 
-# Arrays
-
-Arrays:
- `int [] werte = new int [4];`
- `werte [0] = 1;`
- `werte [1] = 2;`
- `werte [2] = 3;`
- `werte [3] = 4;`
-
-
-
-werte.length : Länge des Arrays
-
-
-
 
 # Kopieren von Instanzen
 `Integer wert = New Integer(70);`

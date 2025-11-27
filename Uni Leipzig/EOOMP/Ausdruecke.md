@@ -1,3 +1,8 @@
+---
+aliases:
+  - Arithmetische Operatoren
+  - logische Operatoren
+---
 Vorlesung 29.10.25
 
 `+,-,*,/,%`

@@ -1,6 +1,10 @@
 ---
 id: Schleifen
-aliases: []
+aliases:
+  - if
+  - for
+  - loop
+  - while
 tags: []
 ---
 
