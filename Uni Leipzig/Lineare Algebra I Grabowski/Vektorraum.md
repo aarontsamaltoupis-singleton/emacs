@@ -20,14 +20,14 @@ $a_{1}v_{1}+a_{2}v_{2}+\dots+a_{p}v_{p} = \sum\limits^{ p}_{k=1}a_{k}v_{k}$
 
 # Basis
 die Vektoren $v_{1},..,v_{n}\in V$ sind eine **Basis** von V, wenn jeder Vektor $v\in V$ eine **eindeutige** Darstellung als Linearkombination der Basisvektoren hat.
-
+- Die Koeffizienten $a_{1},\dots,a_{n}$ sind die Koordinaten von $V$ i nder Basis $v_{1},..,v_{n}$.
 
 Beispiel:
 $e_{1}:=(1,0\dots0)^{T}$
 $e_{2}:=(0,1,0,\dots,0)^{T}$
 ...
 $e_{n}:=(0,0\dots{0},1)^{T}$
--->**Standartbasis**
+-->**Standardbasis**
 
 ## Bemerkung
 Sei $v_{1},\dots,v_{n}$ eine Basis von V.
@@ -44,5 +44,5 @@ $v_{1},\dots,v_{n}\in V$ sind ein Erzeugendensystem, falls jeder $v\in V$ sich a
 $v_{1},\dots v_{n}\in V$  sind linear unabhängig, falls die Gleichung $X_{1}v_{1}+\dots+X_{n}v_{n}=0$ genau eine Lösung hat.
 
 
-# Prop: Jedes erzeugendensystem enthällt eine Basis
+# Prop: Jedes erzeugendensystem enthält eine Basis
 
