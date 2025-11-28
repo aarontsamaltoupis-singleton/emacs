@@ -7,7 +7,7 @@ Sei $\tau:\mathbb{N}\to \mathbb{N}$ eine [[bijektiv|Bijektion]], dann gilt:
 $\forall N\in \mathbb{N}: \exists M\in \mathbb{N}:\{1,\dots,N  \}\subseteq \{ \tau(1),\dots,\tau(M) \}$.
 
 **Beweis der Behauptung:**
-Wähle $M=max\{ \tau^{-1}(1),\dots,\tau^{-1}(N) \}$
+Wähle $M=\max\{ \tau^{-1}(1),\dots,\tau^{-1}(N) \}$
 
 # Satz 4.30
 Die folgenden Aussagen sind  äquivalent: 
@@ -17,6 +17,7 @@ außerdem: $\sum\limits^{ \infty}_{n=1}a_{n}=\sum\limits^{ \infty}_{n=1}a_{\tau(
 # Satz 4.31 (Cauchy Produkt von Reihen)
 Seien $\sum\limits^{ }_{n}a_{n}, \sum\limits^{ }_{n}b_{n}$ [[Konvergenzkriterien fuer Reihen#Absolute Konvergenz|absolut konvergente]] Reihen.
 Dann gilt: 
-$\left( \sum\limits^{}_{n}a_{n} \right)\left( \sum\limits^{ }_{n}b_{n} \right)=\sum\limits^{ \infty}_{n}\left( \sum\limits^{ m}_{k=0}a_{m-k}\cdot b_{k} \right)$
+$\left( \sum\limits^{\infty}_{n}a_{n} \right)\left( \sum\limits^{\infty }_{n}b_{n} \right)=\sum\limits^{ \infty}_{m=0}\left( \sum\limits^{ m}_{k=0}a_{m-k}\cdot b_{k} \right)$
+
 
 
