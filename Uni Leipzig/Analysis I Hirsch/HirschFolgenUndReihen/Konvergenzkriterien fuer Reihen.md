@@ -9,6 +9,7 @@ aliases:
   - Cauchy-Verdichtungskriterium
   - Leipnizkriterium
 ---
+
 # Bemerkung 4.22
 $(s_{n})_{n}$ konvergiert $\iff(s_{n})$ ist eine Cauchyfolge $\iff$ 
 $\forall\varepsilon>0: \exists N\in \mathbb{N}:|a_{n+1}+a_{n+2}+\dots+a_{m}| = \sum^{m}_{k=n+1}a_{k}=|s_{m}-s_{n}|<\varepsilon, \forall m\geq n>N$

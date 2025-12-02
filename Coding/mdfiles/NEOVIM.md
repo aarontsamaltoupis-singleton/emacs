@@ -27,3 +27,7 @@ Ctrl l to jump forward
 	
 # Markdown Preview
 - <leader>mp
+
+# Vimtex
+\lc to clear auxiliary files
+
