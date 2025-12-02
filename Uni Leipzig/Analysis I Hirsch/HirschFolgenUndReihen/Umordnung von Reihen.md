@@ -19,5 +19,4 @@ Seien $\sum\limits^{ }_{n}a_{n}, \sum\limits^{ }_{n}b_{n}$ [[Konvergenzkriterien
 Dann gilt: 
 $\left( \sum\limits^{\infty}_{n}a_{n} \right)\left( \sum\limits^{\infty }_{n}b_{n} \right)=\sum\limits^{ \infty}_{m=0}\left( \sum\limits^{ m}_{k=0}a_{m-k}\cdot b_{k} \right)$
 
-
-
+ 

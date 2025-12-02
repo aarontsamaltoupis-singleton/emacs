@@ -1,3 +1,9 @@
+---
+aliases:
+  - lim sup
+  - konvergenz
+  - teilfolgen
+---
 #Rudin
 # Definition 3.1: Konvergenz
 Eine Folge $\{ p_{n} \}$ in einem [[metrische Raeume|metrischen Raum]]  X konvergiert, wenn ein Punkt $p\in X$ mit der Folgenden Eigenschaft existiert: 
