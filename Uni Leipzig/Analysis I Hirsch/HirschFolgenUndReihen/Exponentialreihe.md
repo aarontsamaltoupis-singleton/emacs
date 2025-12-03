@@ -9,3 +9,4 @@ $\sqrt[n]{ a_n }=\frac{|x|}{\sqrt[n]{ n! }}$
 
 Daher konvergiert die Reihe [[Konvergenzkriterien fuer Reihen|absolut]].
 
+

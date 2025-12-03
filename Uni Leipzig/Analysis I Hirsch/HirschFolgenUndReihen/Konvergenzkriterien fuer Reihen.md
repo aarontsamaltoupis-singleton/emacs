@@ -56,7 +56,6 @@ $(q1) \iff (q1)^*:$
 
 
 
-
 Das Wurzelkriterium und das Quotientenkriterium beschreiben nicht alle Reihen. Beispielsweise Reihen wie $\sum\limits^{ }_{n}\frac{1}{n}$, in denen $\sqrt[n]{ \frac{1}{n} }$ gegen 1 konvergiert. Dieser Fall ist weder von q1, noch q2, noch w1, noch w2 abgedeckt.
 
 

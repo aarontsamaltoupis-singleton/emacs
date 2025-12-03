@@ -4,6 +4,7 @@ aliases:
 ---
 # Def lineare Abbildung
 
+
 # Isomorph
 
 # Übungsblatt 6.4
