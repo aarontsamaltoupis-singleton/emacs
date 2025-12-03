@@ -1,3 +1,4 @@
+#Datenstruktur
 - flexible Datenstrukturen
 - Größe muss vorher nicht angegeben werden
 
