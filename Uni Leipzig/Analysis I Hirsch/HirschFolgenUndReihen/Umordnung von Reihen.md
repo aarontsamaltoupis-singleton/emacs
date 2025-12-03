@@ -1,3 +1,7 @@
+---
+aliases:
+  - cauchy produkt von reihen
+---
 # Definition Umordnung
 Eine Reihe $\sum\limits^{ }_{n}b_{n}$ ist eine Umordnung der Reihe $\sum\limits^{ }_{n}a_{n}$, falls eine [[bijektiv|Bijektion]] $\tau:\mathbb{N}\to \mathbb{N}$ existiert, mit der Eigenschaft, dass $b_{n} = a_{\tau(n)}$
 
@@ -19,4 +23,3 @@ Seien $\sum\limits^{ }_{n}a_{n}, \sum\limits^{ }_{n}b_{n}$ [[Konvergenzkriterien
 Dann gilt: 
 $\left( \sum\limits^{\infty}_{n}a_{n} \right)\left( \sum\limits^{\infty }_{n}b_{n} \right)=\sum\limits^{ \infty}_{m=0}\left( \sum\limits^{ m}_{k=0}a_{m-k}\cdot b_{k} \right)$
 
- 
