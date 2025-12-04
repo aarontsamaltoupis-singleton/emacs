@@ -15,7 +15,7 @@ zu beweisen ist, dass ab einem gewissen Punkt der Durchschnitt jedes folgenden T
 
 
 Eine **Teilfolge** der Folge konvergiert dabei gegen den Wert, aber nicht ide Folge selber
-a ist ein **[[Lineare Algebra I Grabowski/Teilfolgen und der Satz von Bolzano-Weinstrauss|Haeufungspunkt]]** der folge a_n.
+a ist ein **[[Uni Leipzig/Analysis I Hirsch/Teilfolgen und der Satz von Bolzano-Weinstrauss|Haeufungspunkt]]** der folge a_n.
 
 
 Inwieweit würde dies in konflikt mit der zweiten Bedinung stehen? 

@@ -37,18 +37,8 @@ Es gibt eine [[bijektiv|Bijektion]] $f:\mathbb{K}^{n}\to V$, da jeder Vektor ein
 Diese Eigenschaft ist in Zukunft wichtig um Eigenschaften von $\mathbb{K}^{n}$ auf $V$  zu verallgemeinern.
 
 Eine Basis hat folgende zwei Eigenschaften: 
-## Erzeugendensystem
-$v_{1},\dots,v_{n}\in V$ sind ein Erzeugendensystem, falls jeder $v\in V$ sich als Linearkombination schreiben lässt: $v=a_{1}v_{1}+\dots+a_{n}v_{n}$
-- v1,...,vn **spannen V auf**
-
---> Die Darstellung ist aber nicht unbedingt eindeutig
-
-## Linear unabhängig
-$v_{1},\dots v_{n}\in V$  sind linear unabhängig, falls die Gleichung $X_{1}v_{1}+\dots+X_{n}v_{n}=\vec{0}, \vec{0}\in V$ genau eine Lösung hat, nämlich die triviale linearkombination $X_{i}=0$
-
-wenn $v_{1},..,v_{n}$ nicht linear unabhängig, sind sie **linear abhängig**.
-Es gibt also $x_{1},..,x_{n}$ , sodass $\exists i: x_i\neq 0$(x_i sind Elemente des [[Körper|Koerpers]] von $V$) 
-
-
-# Prop: Jedes erzeugendensystem enthält eine Basis
+Sie ist ein
+[[Erzeugendensystem]]
+und
+[[Linear unabhängig]]
 

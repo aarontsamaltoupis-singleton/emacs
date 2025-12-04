@@ -13,6 +13,8 @@ Drei Haypttypen von Collections:
  zentrales [[interfaces|Interface]] für standartmäßige Datenstrukturen:
  - alle typen, die Collections implementieren haben diese Methoden, sie haben aber in den verschiedenen Typen teilweise verschiedene genaue Funktionen
 
+![[Pasted image 20251204132751.png]]
+
 
 # Methodendeklarationen: 
 +clear():void

@@ -13,6 +13,8 @@ vollständige wörter repräsentiert durch das ende der knoten
 
 vergleiche: [[Grundlegende Begriffe#Präfix]]:
 
+
+
 # TrieTreeNode, TrieTreeEdge
 Klassen
 TrieTreeNode

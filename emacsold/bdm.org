@@ -3,4 +3,4 @@
 - 1998:
   - [[file:bdm1998_2Nr4.org][Runde 2, Nr 4 (Volumenproblem)]]
 
-  - [[file:bdm1998_2Nr2.org][Runde 2, Nr2]]
+  - [[file:bdm1998_2Nr2.org]]
