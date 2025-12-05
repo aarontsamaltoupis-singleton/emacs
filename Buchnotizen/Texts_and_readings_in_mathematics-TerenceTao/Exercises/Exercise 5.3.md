@@ -9,3 +9,5 @@ Show that $b_{n}$ is also bounded.
 Hint: [[Exercise 5.2#5.2.2]]
 
 
+**5.3.5**
+show that $LIM_{n\to \infty} \frac{1}{n}=0$

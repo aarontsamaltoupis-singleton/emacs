@@ -219,7 +219,7 @@ $\nexists q\in \mathbb{Q}(q^{2}=2)$
 
 
 # Satz 3.15 (Satz von Archimedes)
-Vergleiche Rudin: [[Der Körper der reellen Zahlen#a) Archimedische Eigenschaft von R|Archimedische Eigenschaft]]
+Vergleiche Rudin: [[Der Körper der reellen Zahlen#a) Archimedische Eigenschaft von R|Archimedische Eigenschaft]], Tao: [[5.4 Ordering the reals#Corollary 5.4.13 (Archimedean property)]]
 $\forall a\in \mathbb{R}:  \exists n\in \mathbb{N}$, mit $n>a$
 ## Beweis 3.15
 Sei $a\in \mathbb{R}$, sodass $n<a,\forall n\in \mathbb{N}$.

@@ -40,3 +40,4 @@ Somit ist $\alpha-x$ keine Schranke von A und es gibt ein $m$, sodass $\alpha-x 
 
 
 
+**
