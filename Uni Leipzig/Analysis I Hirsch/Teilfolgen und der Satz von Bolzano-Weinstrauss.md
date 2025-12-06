@@ -3,6 +3,7 @@ tags:
   - hirsch
 aliases:
   - Haeufungspunkt
+  - Teilfolgen
 ---
 
 # Definition 4.18 (Teilfolgen)

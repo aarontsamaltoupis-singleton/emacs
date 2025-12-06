@@ -6,6 +6,7 @@ aliases:
 ---
 #Rudin
 # Definition 3.1: Konvergenz
+
 Eine Folge $\{ p_{n} \}$ in einem [[metrische Raeume|metrischen Raum]]  X konvergiert, wenn ein Punkt $p\in X$ mit der Folgenden Eigenschaft existiert: 
 
 $\forall \varepsilon>0:  \exists N\in \mathbb{N}(n\geq N\implies d(p_{n},p)<\varepsilon)$

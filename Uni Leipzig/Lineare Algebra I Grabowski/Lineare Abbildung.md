@@ -20,6 +20,7 @@ Eine lin Abb $T:\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist durch die Auswahl der Vekt
 
 
 # Isomorph
+zwei Vektorräume $V,W$ sind bijektiv iff Es gibt eine bijektive lineare Abbildung $T:V\to W$
 
 # Übungsblatt 6.4
 Der Nullvektor $\vec{0}$ eines [[Vektorraum|vektorraums]] $V$ ist eindeutig.
