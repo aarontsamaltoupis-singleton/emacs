@@ -31,3 +31,9 @@ Ctrl l to jump forward
 # Vimtex
 \lc to clear auxiliary files
 
+
+# luasnip
+
+- advanced snippets
+- store_selection_keys = "<Tab>",
+pressing <Tab> in visual mode will store the selected text in luaSnip variable

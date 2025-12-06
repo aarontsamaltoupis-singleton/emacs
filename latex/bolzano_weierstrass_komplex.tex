@@ -1,4 +1,3 @@
-
 \documentclass[a4paper,oneside,11pt]{article}
 \usepackage[utf8]{inputenc}
 
@@ -167,82 +166,15 @@
 
 
 \begin{document}
-{\Large\bf Cauchy-Produkt}\\  tags:\  {Hirsch, Cauchy-Produkt}\\
+{\Large\bf Bolzano Weierstrass, vollständigkeit in $\mathbb{R}^{n}, \mathbb{C} ^{n} $}\\  tags:\  {Hirsch}\\
 \hrule
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection*{I}
-Es kann eine Abzählung gefunden werden $\phi: \mathbb{N} \to\mathbb{N} \times\mathbb{N}$,\\
-sodass $(N+1)^2$ natürliche Zahlen diese Tupel $(a,b)\in\mathbb{N} \times\mathbb{N}$ abzählen: \\
-$$\{(i,j): \max \{i,j\} \leq N^2\}$$\\
-
-\mediumskip
-$\phi(k)=(\phi_1(k), \phi_2(k))\in \mathbb{N} \times\mathbb{N}$
-
-
 \bigskip
-Sei die Elemnte der Tupel werden miteinander multiplizier und die Produkte summiert.\\
-Es ergeben sich somit $(N+1)^2$ Produkte,da es genau so viele Tupel gibt.
-
-\bigskip
-
-Die Summe der Produkte dieser Tupel kann auch so geschrieben werden:
-$$
-	\left(\sum_{i=0}^{N^2} a_i\right)\left(\sum_{i=0}^{N^2} b_i\right)
-$$
-\\
-$$
-	\sum^{(N+1)^2}_{i=0} a_i \cdot b_i = \left(\sum_{i=0}^{N^2} a_i\right)\left(\sum_{i=0}^{N^2} b_i\right)
-$$
-$$
-	\sum^{\infty}_{i=0} a_i \cdot b_i = \left(\sum_{i=0}^{\infty} a_i\right)\left(\sum_{i=0}^{\infty} b_i\right)
-$$
-\subsection*{II}
-\bigskip
-Es kann eine Abzählung gefunden werden $\psi: \mathbb{N} \to\mathbb{N} \times\mathbb{N}$,\\
-sodass $\frac{(N+1)(N+2)}{2}$ natürliche Zahlen diese Tupel $(a,b)\in\mathbb{N} \times\mathbb{N}$ abzählen: \\
-$$\{(i,j-i)|0 \leq i \leq N, 0 \leq j \leq i, i+j \leq N\}$$\\
-
-\mediumskip
-$\psi(k)=(\psi_1(k), \psi_2(k))\in \mathbb{N} \times\mathbb{N}$
-
-
-\bigskip
-Sei die Elemnte der Tupel werden miteinander multiplizier und die Produkte summiert.\\
-Es ergeben sich somit $\frac{(N+1)(N+2)}{2}$ Produkte,da es genau so viele Tupel gibt.
-
-\bigskip
-
-Die Summe der Produkte dieser Tupel kann auch so geschrieben werden:
-$$
-	\sum_{i=0}^{N}\sum^i_{j=0} a_{i-j}b_j
-$$
-
-
-
-\bigskip
-
-Da es aber eine Abzählung dieser Tupel auf $\frac{(N+1)(N+2)}{2}$ natürliche Zahlen gibt, kann für jeder diser Tupel $(n,m)$, eine natürliche zahl $k \leq \frac{(N+1)(N+2)}{2}$ gefunden werden, sodass $$\psi(k)=(n,m)=(\psi_1(k), \psi_2(k))$$
-Somit gilt:
-$$
-	a_n\cdot b_m= a_{\psi_1(k)}\cdot  b_{\psi_2(k)}
-$$
-
-
-\bigskip
-Somit gibt es eine Abzählung, sodass $$
-	\sum_{i=0}^{N}\sum^i_{j=0} a_{i-j}b_j=\sum_{i=0}^{\frac{(N+1)(N+2)}{2}}a_{\psi_1(i)}b_{\psi_2{(i)}}
-$$
-
-$$
-	\sum_{i=0}^{\infty}\sum^i_{j=0} a_{i-j}b_j=\sum_{i=0}^{\infty}a_{\psi_1(i)}b_{\psi_2{(i)}}
-$$
-\section*{Fazit}
-Wie gerade gezeigt,  gibt es zwei Abzählungen $\phi: \mathbb{N} \to \mathbb{N} \times \mathbb{N}$, $\psi: \mathbb{N} \to \mathbb{N} \times \mathbb{N}$.\\
-$\tau=\psi^{-1}\circ \phi:\mathbb{N} \to\mathbb{N} $ ist eine Umordnung von $\mathbb{N}$.
-\\
-
-$$\sum^{\infty}_{i=0} a_i \cdot b_i = \left(\sum_{i=0}^{\infty} a_i\right)\left(\sum_{i=0}^{\infty} b_i\right)
-$$
-
+Die einzelnen Koordinaten von $a_{n}$ sind ebenfalls beschränkt.\\
+Da sie Elemente von $\mathbb{R} $ sind lassen sich in  den Koordinaten konvergierende Teilfolgen finden.\\
+Betrachte nur die $a_{{k}}$, bei denen die erste Koordinate eine konvergierende Teilfolge ist.\\
+Die restlichen Koordinaten sind immer noch beschränkt und enthalten somit immer ncoh eine konvergente Teilfolge.\\
+Betrachte nur die Elemente der Teilfolge, bei denen die zweite Koordinate konvergiert.
+usw.
 \end{document}
 
