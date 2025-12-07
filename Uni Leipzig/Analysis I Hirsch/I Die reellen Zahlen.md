@@ -271,5 +271,6 @@ $\implies$ insbesondere $\max\{ a_{i}: i=1,2,3,\dots,n \} = a_{i_{0}}$ mit $a_{i
 Falls $M\subseteq \mathbb{R}$ nach oben (unten) beschränkt und nicht leer, dann existiert $\sup M(\inf M)$
 Vergleiche: [[beschränkte mengen#Supremums Eigenschaft einer Menge M|Supremumseigenschaft(Rudin)]]
 
+
 $\mathbb{Q}$ erfüllt das Vollständigkeitsaxiom nicht. Siehe [[beschränkte mengen#Supremums Eigenschaft einer Menge M]](Rudin)
 	
