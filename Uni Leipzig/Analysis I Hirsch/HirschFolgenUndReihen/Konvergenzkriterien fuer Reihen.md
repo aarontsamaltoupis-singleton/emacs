@@ -37,8 +37,9 @@ Sei eine Folge $a_{n}$ eine monoton fallende Folge.
 $\sum\limits^{ }_{n}a_{n}$ konvergent gdw $\sum\limits^{ }_{n}2^{n}a_{2^{n}}$ konvergent
 
 # Leipniz Kriterium
-Sei $(a_{n})_{n}$ eine monoton fallende Nullfolge
-
+Sei $(a_{n})_{n}$ eine monoton fallende reelle Nullfolge
+Dann konvergiert die Reihe
+$\sum\limits^{ \infty}_{n=0}(-1)^{n}a_{n}$
 
 
 # Wurzelkriterium
