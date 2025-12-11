@@ -1,5 +1,7 @@
 ---
-title:Aufgaben.md
+id: Aufgaben
+aliases: []
+tags: []
 ---
 
 - [ ] 
@@ -16,5 +18,9 @@ title:Aufgaben.md
 - obsidian-jump: leader-o-o
 - save: leader w
 - obsidian-follow-wikilink: C-c-o
+
+# neovim
+## search pdf
+sudo apt install pdfgrep
 
 

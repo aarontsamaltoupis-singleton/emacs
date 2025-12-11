@@ -173,6 +173,38 @@
 Sei $V,W$ Vektorräume\\
 Sei $T:V\to W$ eine lineare Abbildung.\\
 \textbf{Ranksatz:} $$
-	\dim(V)=n \implies \dim \ker (T)+\dim \im (T)=n\\
+	\dim(V)=n \implies \dim \ker (T)+\dim im (T)=n\\
 $$
+Der Ranksatz soll zunächst für die entsprechende Matrix $A\in M_{n\times m}$ von $T$ bewiesen werden.
+\section{Beweis für Matrix A}
+\begin{theorem}
+	(Rangsatz) Sei $A\in M_{m\times n}$. Dann $\dim ker(A)+\dim im(A) =n$
+\end{theorem}
+\begin{proof}
+	Sei S eine Zeilenstufenform, die aus A durch das Eliminationsverfahren entsteht.\\
+	Es reicht zu zeigen, dass $\dim ker(S)+\dim im(S)=n$\\
+	Da $\dim ker(S)$ die Anzahl der Spalten ohne pivots und $\dim im(S)$ die Anzahl der Spalten mit pivots, muss ihre Summe die Anzahl aller Spalten ergeben, die n ist, was zu zeigen war.
+\end{proof}
+\\
+\subsection {Reduktion von A auf S}
+
+Es soll bewiesen werden, dass sich we
+\bigskip
+\subsection{Beweis für  Zeilenstufenform S von A}
+\subsubsection{}
+Es gilt:\\
+$\dim im (S)$ ist die Anzahl von Spalten mit Pivots in dem Gelichungssystem $A\cdot \vec{x}=\vec{0}$\bigskip
+
+
+Die Spalten, die Pivots enthalten, sind eine Basis von $im(S)$
+\begin{proof}
+	Beweis durch Induktion über die Anzahl von Pivots $r$ in $S$.
+
+\end{proof}
+\subsubsection{}
+Es gilt: \\
+$\dim ker(S)$ ist die Anzahl von Spalten ohne Pivots in dem Gleichungssystem $S$.\\
+$ker(S)$ sind alle Lösungen des Gleichnungssystems $A\cdot \vec{x} = \vec{0}$\\
+
+\section{Beweis für allgemeine lineare Abbildungen}
 \end{document}

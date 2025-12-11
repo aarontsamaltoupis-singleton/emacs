@@ -10,6 +10,7 @@ Vergleiche [[/Uni Leipzig/Automaten und Sprachen/Grundlegende Begriffe]]
 - 
 knoten, kanten folgen aufeinander
 - kanten legen fest, wie wort aussieht
+- jede Kante hat genau einen Knoten 
 - 
 vollständige wörter repräsentiert durch das ende der knoten
 

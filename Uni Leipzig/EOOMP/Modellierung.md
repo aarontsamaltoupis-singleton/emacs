@@ -1,6 +1,8 @@
 ---
+id: Modellierung
 aliases:
   - aggregation
+tags: []
 ---
 
 [[UML]]: Universal Modelling Language
@@ -37,7 +39,7 @@ aliases:
 
 Bsp: 
 ![[Pasted image 20251204133323.png]]
-
+- müssen immer angegeben werden
 
 # Exceptions
 - eine selbstgeschriebene Exception kann als Erweiterung der Klasse "Exception" dargestellt werden
