@@ -1,2 +1,12 @@
-- The best writing in mathematics 2021
-- 99 variations of a proof
+---
+id: bücher
+aliases: []
+tags: []
+---
+
+- [x] The best writing in mathematics 2021
+- [x] -99 variations of a proof
+- [ ] linear algebra done right
+- [ ] tao: analysis II
+
+

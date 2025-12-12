@@ -1,3 +1,9 @@
+---
+id: studium
+aliases: []
+tags: []
+---
+
 
 * Bonn
 Studium Mathematik: https://www.uni-bonn.de/de/studium/studienangebot/studiengaenge-a-z/mathematik-bsc
@@ -18,16 +24,16 @@ Dozent: Dr. Michael Welter
 
 *Anmeldung möglich ab 1.08.25*
 
-** Studienverlauf
-*** 1. Semester
+## Studienverlauf
+### 1. Semester
  - Analysis I, Lineare Algebra I, Algorithmische Mathematik I
 
-*** 2. Semester
+### 2. Semester
 - Analysis II
 - Lineare Algebra II
 - Algorithische Mathematik II
 - Seminar
-*** 3. Semester
+### 3. Semester
 - Einführung in das Nebenfach
 - Einführende Vorlesungen aus den Wahlpflichtmodule: Bereichen A- F
 
@@ -39,35 +45,35 @@ Semester 3:
 - D) Geometrie, Topologie
 - E) Numerik, wissenschaftliches Rechnen
 - F) Stochastik
-*** Praktikum
+### Praktikum
 - Empfohlen im 4. und 5. Semester
 - Wahl zwischen:
   - Programmierpraktikum
   - Industriepraktikum
   - Tutorenpraktikum
-*** Nebenfach
+### Nebenfach
 - erste einführende nebenfachvorlesung im 2. bis 3. Semester
 - klassische Nebenfächer:
   - Physik
   - Informatik
   - Volkswirtschaftslehre
 
-*** Bachelorarbeit
+### Bachelorarbeit
 - 5. Semester: spätester Zeitpunkt für Festlegung auf ein Spezialisierungsgebiet
 
-** Bewerbungsfristen
+## Bewerbungsfristen
 - Online Bewerbung: 15. 07. 25 -- Bekanntgabe der Ergebnisse Ende Juli im Bewerbungsportal
   *Bewerbung*: https://www.uni-bonn.de/de/studium/bewerbung-zulassung-und-einschreibung/bewerbungsguide/bewerbungsguide?course-name=Mathematik+%7C+Bachelor+of+Science+%7C+Ein-Fach&course-uid=11632f5c4fcc4bbf96c419fc8acbafde&heeq=heeq_german&form.wigdet.uni-email=&tigger=
 
-** Wohnungssuche
+## Wohnungssuche
 
-* Berlin
+# Berlin
 Bewerbungsfrist:
 Mathe, da kein NC fach: 31.08.25
 https://www.hu-berlin.de/de/studium/bewerbung/fristen/frist
 
-* Leipzig
-** Einführungstag
+# Leipzig
+## Einführungstag
 - willkommenstag: 8.10. Campus Augustusplatz
 
   Informationen zu veranstaltungen:
@@ -75,5 +81,5 @@ https://www.hu-berlin.de/de/studium/bewerbung/fristen/frist
   https://www.uni-leipzig.de/studium/im-studium/immatrikulation-und-studienstart/studienstart
 
 
-** Unicard
+## Unicard
 https://www.uni-leipzig.de/studium/im-studium/studienorganisation/unicard

@@ -1,3 +1,9 @@
+---
+id: Addition
+aliases: []
+tags: []
+---
+
 #Peano_Axioms
 #Tao_Analysis1 
 # Definition 2.2.1: Addition of natural numbers
@@ -26,7 +32,6 @@ $\forall n,m\in N n+S(m) = S(n+m)$
 $\forall n,m\in N: n+m=m+n$
 
 # Proposittion 2.2.5 (Addition is associative)
-
 
 # Proposition 2.2.6 (Cancellation law)
 $\forall a,b,c\in N: a+b=a+c\implies b=c$

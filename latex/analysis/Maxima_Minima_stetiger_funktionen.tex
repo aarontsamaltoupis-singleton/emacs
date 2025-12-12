@@ -162,14 +162,54 @@
 \newtheorem{lemma}{Lemma}
 \newtheorem{example}{Example}
 
-%%%%%%%%%%%%%kjkkjjjj bkjjkjk%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \begin{document}
-{\Large\bf note}\\  tags:\  {hirsch}\\
+{\Large\bf Maxima und Minima stetiger FUnktionen}\\  tags:\  {hirsch, Stetigkeit, Funktion}\\
 \hrule
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \bigskip
-hckj
+\begin{theorem*}
+	Sei $f:[a,b]\to \mathbb{R} $ stetig. Es existiert dann ein $x_{m},x_{M}\in [a,b]$ mit $$f(x_{m})\leq f(x)\leq f(x_{M}), \forall x\in [a,b]]$$
+\end{theorem*}
+\begin{proof}
+	Wir zeigen die Existenz von $x_{M}$. $x_{m}$ kann durch das Maximum von $-f(x)$ gezeigt werden.\\
+	Sei $$S:= \sup \{f(x): x\in [a,b]]\}$$\\
+	\begin{align}
+		S_{n}=
+		\begin{cases}
+			S-\frac{1}{n}, \textnormal{ falls $S<\infty$} \\
+			n, \textnormal{, falls $S=+\infty$}
+		\end{cases}
+	\end{align}\bigskip
+
+
+	Es gilt: $S_{n}<S$ (Da wenn $S_{n}=n$, dann $S=\infty$)
+	$$
+		\exists x_{n}\in [a,b]: S\geq f(x_{n})>S_{n}
+	$$
+	Sonst wäre $S$ nicht größer als $S_{n}$.\bigskip
+
+	Die Folge der $(x_{n})_{n}$ für jedes $S_{n}$ ist beschränkt von $a$ und $b$ und hat dementsprechen eine konvergente Teilfolge.\\
+	\begin{align}
+		 & x_{n_{k}}\textnormal{mit } \lim \limits_{n \to\infty}x_{n_{k}}=x_0 \\
+		 & a\leq x_{n_{k}}\leq b                                              \\
+		 & a \leq x_{0} \leq b                                                \\
+		 & a\in [a,b]
+	\end{align}
+	Da $f$ stetig folgt $$
+		\lim \limits_{n \to\infty}f(x_{n_{k}})=f(x_{0}), \textnormal{ da $\lim \limits_{n \to\infty} x_{n}=x_{0}$}
+	$$\bigskip
+
+	$f(x_{n_{k}})>n_{k}=S_{n_{k}}<\infty $ ist nicht möglich, da $f(x_{n_{k}})$ konvergent ist und somit nicht größer als eine divergente Folge sein kann.\bigskip
+
+	\begin{align*}
+		0=f(x_{n_k})-f(x_{0}) \leq S-f(x_{0}) \leq f (x_{n_{k}})=f(x_{0})+\frac{1}{n_{k}}=0 \\
+		S-f(x_{0})=0                                                                        \\
+		S=f(x_{0})
+	\end{align*}
+	Da $x_{0}\in [a,b]$ ist $f(x_{0})\in f([a,b])$ und somit ist $f(x_{0})$ nicht nur Supremum, sonder Maximum.
+\end{proof}
 \end{document}
 
