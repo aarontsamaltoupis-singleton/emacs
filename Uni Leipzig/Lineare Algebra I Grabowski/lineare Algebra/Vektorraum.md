@@ -10,8 +10,6 @@ Sei $\mathbb{K}$ ein [[Körper]]. Ein Vektorraum über K ist ein Tupel $(V,+,\mu
 
 - + ist kommutativ, assotiativ und hat neutrales, inverses Element
 - $\mu$ ist assotiativ, distr gegenüber + in K und gegenüber + in V und $\forall v\in V: 1\cdot v=v$
-
-
 # Linearkombinationen
 Sei V ein Vektorraum und seien $v_{1},v_{2},\dots v_{p}\in V$ Vektoren.
 Eine Linearkombination dieser Vektoren ist eine Summe der Form

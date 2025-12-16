@@ -186,41 +186,18 @@ Zeigen sie,dass für jedes $z_{0}\in \mathbb{C}$ mit $|z_{0}|<R$ eine Potenzreih
 	Q(z)=P(z_{0}+z), \forall z\in B_{r}(z_{0})
 $$
 \bigskip
-\section*{Notizen}
-Zu zeigen: \\
-Für jedes $z_{0}$ im Konvergenzbereich von $P(z)$ gibt es eine weitere Potenzreihe $Q(z)$, die im Bereich $(z_{0}-r,z_{0}+r)$ denselben Wert hat wie $P(z_{0}+z)$.\bigskip
 
-\bigskip
+Hypothese:
+\begin{align}
+	\lim \limits_{N \to\infty}\sum_{n=0}^{N}a_{n}(z+z_{0})^{n}=\sum_{n=0}^{N}z^{n}	b_{n}
+	 & =\lim \limits_{N \to\infty}  \sum_{n=0}^{N}z^{n}\frac{1}{2}\sum_{k=0}^{N}a_{n+k} \binom{n+k}{k}\cdot z_{0}^{k}                        \\
+	 & =\lim \limits_{N \to\infty} \sum_{n=0}^{N}z^{n}\frac{1}{2}\lim \limits_{M \to\infty} \sum_{k}^{M}a_{n+k}\binom{n+k}{k}\cdot z_{0}^{k}
+\end{align}
 
-Für jedes $z_{0}$, für das $P(z)$ konvergiert, gibt es eine "kleinere" Potenzreihe $Q(z)$, die im Bereich $R-|z_{0}|$ um $z_{0}$ divergent ist und genau dem Wert von $P(z_{0}+z)$ entspricht.
-
-\subsection*{Extremwerte}
-Sei $z_{0}=0$.\\
-$Q(z)=P(z)$:$$
-	Q(z)=P(0+z), \forall z\in B_{R}(0)
-$$\bigskip
-
-Sei $z_{0}=R$.\\
-
-
-
-
-\newpage
-\section*{Fragen}
-Was ist mit  $B_{r}(z_{0})$ gemeint, wenn $Q(z)$ den Konvergenzradius $r$ hat.\\
-\begin{align*}
-	 & r=R-|z_{0}|>0                                                          \\
-	 & x\in B_{r}(z_{0})=(z_{0}-R+|z_{0}|, z_{0}+R-|z_{0}|)=(z_{0}-r,z_{0}+r) \\
-	 & x<R
-\end{align*}
-Es kann aber sein, dass $R>x>r$.
-Dann würde $Q(x)$ divergieren, da $x$ außerhalb des Konvergenzradius, aber $P(x+z_{0})$ würde konvergieren, da $x<R$.
-\bigskip
-
-alle anderen Bedinungen wären trotzdem erfüllt:\\
-$|z_{0}|<R$
-
-
+Durch Induktion bewiesen gilt folgende Aussage:
+\begin{align}
+	\sum_{n=0}^{N}a_{n}(z+z_{0})^{n}=\sum_{n=0}^{N}z^{n}\cdot \sum_{k=0}^{N-n}a_{n+k}\binom{n+k}{k} \cdot z_{0}^{k}
+\end{align}
 \end{document}
 
 

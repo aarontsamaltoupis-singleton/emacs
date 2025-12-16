@@ -188,10 +188,12 @@ Der Ranksatz soll zunächst für die entsprechende Matrix $A\in M_{n\times m}$ v
 \\
 \subsection {Reduktion von A auf S}
 
-Es soll bewiesen werden, dass sich we
+Es soll bewiesen werden, dass sich $\dim im(A)$ durch keine der gaußschen Elementaroperation ändert.
+\subsubsection{Typ 1}
+\subsubsection{Typ 2}
 \bigskip
 \subsection{Beweis für  Zeilenstufenform S von A}
-\subsubsection{}
+\subsubsection{dim im (S)}
 Es gilt:\\
 $\dim im (S)$ ist die Anzahl von Spalten mit Pivots in dem Gelichungssystem $A\cdot \vec{x}=\vec{0}$\bigskip
 
@@ -201,10 +203,22 @@ Die Spalten, die Pivots enthalten, sind eine Basis von $im(S)$
 	Beweis durch Induktion über die Anzahl von Pivots $r$ in $S$.
 
 \end{proof}
-\subsubsection{}
+\subsubsection{dim ker (S)}
 Es gilt: \\
 $\dim ker(S)$ ist die Anzahl von Spalten ohne Pivots in dem Gleichungssystem $S$.\\
 $ker(S)$ sind alle Lösungen des Gleichnungssystems $A\cdot \vec{x} = \vec{0}$\\
 
 \section{Beweis für allgemeine lineare Abbildungen}
+
+\subsection{Lemma}
+\begin{lemma}
+	Sei $V$ ein Vektorraum mit $\dim(V)=n$ und sei $A:V\to W$ eine lineare Abbildung. DAnn $\dim im(A)\leq n$
+\end{lemma}
+
+\subsection{Übung: dimensionen von ker und im bleiben in Isomorphismen bestehen}
+
+Nach der Übung reicht es, den Rangsatz für isomorphe Vektorräumu von $V$ und $W$ zu zeigen.\medskip
+
+Da $\dim(V)=n$ gibt es einen Isomorphismus $\alpha: \mathbb{K}^{n}\to V$ und $\beta: \mathbb{K}^{m}\to W$. Für diese Vektoräume wurde der Rangsatz bereits gezeigt.
+
 \end{document}
