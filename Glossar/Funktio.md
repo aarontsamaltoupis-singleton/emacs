@@ -28,4 +28,4 @@ Bsp:$f$ has domain and [[Wertebereich|range]] $N$ and $f(x):=S(x), \forall x\in 
 suppose $f:X\to Y, g:X\to Y$
 $f=g\iff f(x)=g(x)\forall x\in X$
 
-[[Komposition_composition|composition of functions]]
+[[Komposition_composition|composition of Funktionswert]]

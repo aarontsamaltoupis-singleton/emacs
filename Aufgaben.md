@@ -8,7 +8,7 @@ tags: []
 ## LINa
 - was wenn LGS keine Lösung hat, welche Dimension hat dann im S, also die An 
     - LGS enthält dann Widerspruch: 
-
+- invertiert are Matrizen 
 
 
 
