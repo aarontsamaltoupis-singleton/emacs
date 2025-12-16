@@ -3,8 +3,25 @@ id: Aufgaben
 aliases: []
 tags: []
 ---
+# Uni
 
-- [ ] 
+## LINa
+- was wenn LGS keine Lösung hat, welche Dimension hat dann im S, also die An 
+    - LGS enthält dann Widerspruch: 
+
+
+
+
+## Eoomp
+parallelität
+sequentiell vs parallelität
+race conditioning, synchronized counting
+
+- sprachauswahl nachprogrammieren
+
+
+
+
 
 
 # emacs
@@ -22,5 +39,11 @@ tags: []
 # neovim
 ## search pdf
 sudo apt install pdfgrep
+
+
+
+
+
+
 
 
