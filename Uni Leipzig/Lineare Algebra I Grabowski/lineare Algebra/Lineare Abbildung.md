@@ -18,7 +18,6 @@ Eine lineare Abbildung $T:\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist durch ihre Werte
 Eine lin Abb $T:\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist durch die Auswahl der Vektoren $a_{i}\in \mathbb{K}$ definiert, auf die die Vektoren $e_{i}$ abgebildet werden sollen.
 
 
-
 # Isomorph
 zwei Vektorräume $V,W$ sind bijektiv iff Es gibt eine bijektive lineare Abbildung $T:V\to W$
 
@@ -29,5 +28,13 @@ $T(\vec{0})=\vec{0}$
 
 # Lemma
 Sei $T:V\to W$ eine lineare Abbildung
+Falls $v_{1},\dots,v_{n}$ lin abhängig., dann auch $T(v_{1}),\dots,T(v_{n})$  lin. abhängig
+
 Sei $T$ [[injektiv_injective_one-to-one|injektiv]] Falls $\vec{v_{1}},\dots,\vec{v_{n}}$ lin. abhängig, dann auch $T(\vec{v_{1}}), \dots,T(\vec{v_{n}})$ lin. abhängig
+
+Sei $T$ surjektiv.
+$v_{1},\dots,v_{n}$ Erzeugendensystem, dann auch $T(v_{1}),\dots,T(v_{n})$ Erzeugendensystem
+
+
+
 

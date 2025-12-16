@@ -13,3 +13,10 @@ Die Vektoren $v_{1},\dots,v_{n}$ sind linear unabhängig gdw. jeder Vektor $v\in
 # Proposition
 $v_{1},..,v_{n} \in V$ sind linear abhängig gdw $\exists i$, sodass $v_{i}$ ist eine [[Vektorraum|Linearkombination]] der anderen Vektoren.
 
+# Satz 1
+$V$ ein Vektorraum, $b_{1},\dots b_{n}$ eine Basis
+falls $v_{1},\dots,v_{m}\in V$ lin unab. $m\leq n$
+falls $v_{1},\dots,v_{m}\in V$ Erzeugendensystem. $m\geq n$ 
+falls $v_{1},\dots,v_{m}\in V$ Bases. $m =n$ 
+
+

@@ -1,6 +1,8 @@
 ---
+id: Umordnung von Reihen
 aliases:
   - cauchy produkt von reihen
+tags: []
 ---
 # Definition Umordnung
 Eine Reihe $\sum\limits^{ }_{n}b_{n}$ ist eine Umordnung der Reihe $\sum\limits^{ }_{n}a_{n}$, falls eine [[bijektiv|Bijektion]] $\tau:\mathbb{N}\to \mathbb{N}$ existiert, mit der Eigenschaft, dass $b_{n} = a_{\tau(n)}$
