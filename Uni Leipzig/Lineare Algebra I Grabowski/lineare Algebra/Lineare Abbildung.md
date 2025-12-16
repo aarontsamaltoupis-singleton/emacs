@@ -9,8 +9,6 @@ $T(av)=aT(v)$
 $T(v+w)=T(v)+T(w)$
 - äquivalent dazu die folgende eine Eigenschaft: 
 - $\forall a,b\in \mathbb{K},v,w\in V:T(av+bw)=aT(v)+bT(w)$
-
-
 # Bemerkung 1
 Eine lineare Abbildung $T:\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist durch ihre Werte auf der Standartbasis bestimmt, d.h. $T(e_{1,}),\dots,T(e_{n})$
 
@@ -18,7 +16,7 @@ Eine lineare Abbildung $T:\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist durch ihre Werte
 Eine lin Abb $T:\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist durch die Auswahl der Vektoren $a_{i}\in \mathbb{K}$ definiert, auf die die Vektoren $e_{i}$ abgebildet werden sollen.
 
 
-# Isomorph
+# Isomorphismus
 zwei Vektorräume $V,W$ sind bijektiv iff Es gibt eine bijektive lineare Abbildung $T:V\to W$
 
 # Übungsblatt 6.4

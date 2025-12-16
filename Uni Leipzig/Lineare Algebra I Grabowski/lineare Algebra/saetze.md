@@ -6,6 +6,14 @@ Die Abbildung $A:\mathbb{K}^{n}\to \mathbb{K}^m$, die durch $v\mapsto A\cdot v$ 
 
 **Jede $m\times n$ Matrix $A$ gibt uns eine lineare Abbildung $\mathbb{K}^{n}\to \mathbb{K}^{m}$ und jede lineare Abbildung $\mathbb{K}^{n}\to \mathbb{K}^{m}$ ist von dieser Form.
 
+## Matrix aus lin abb
+- Lineare Abbildung $T:V\to W$ ist definiert durch die Werte in den Basen von $V$ und $W$.
+- Sei die Basis von $V$ $e_{1},\dots,e_{n}$ gewählt.
+- die Basis von $W$ ist $T(e_{1}),T(e_{2}),\dots,T(e_{n})$
+- $A$ muss so gewählt sein, dass $A\cdot e_{i}=T(e_{i})$
+	- siehe [[Matrix#Multiplikation Vektor Matrix|Multiplikation vektor Matrix]]
+(siehe folie 13, folie 14 wiederholung)
+
 #
 Falls $A\in M_{m\times n}$ [[Lineare Abbildung#Isomorph|Isomorphismus]], also $A:\mathbb{K}^{n}\to \mathbb{K}^{m}$ dann $m=n$.
 
