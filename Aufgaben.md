@@ -3,14 +3,20 @@ id: Aufgaben
 aliases: []
 tags: []
 ---
+
+- [ ] ---
+id: Aufgaben
+aliases: []
+tags: []
+---
 # Uni
 
 ## LINa
-- invertiert are Matrizen 
-- berechnung der basis von span: transposition von matrizen
-- beweis ranksatz nochmal durcharbeiten 
-- werte von bestimmten koeffizienten in matrixmultiplikation bestimmen
-- reduzierte stufenform
+- [ ] invertiert are Matrizen 
+- [ ] berechnung der basis von span: transposition von matrizen
+- [x] beweis ranksatz nochmal durcharbeiten 
+- [ ] werte von bestimmten koeffizienten in matrixmultiplikation bestimmen
+- [ ] reduzierte stufenform
 
 
 

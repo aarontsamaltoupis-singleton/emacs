@@ -188,9 +188,42 @@ Der Ranksatz soll zunächst für die entsprechende Matrix $A\in M_{n\times m}$ v
 \\
 \subsection {Reduktion von A auf S}
 
-Es soll bewiesen werden, dass sich $\dim im(A)$ durch keine der gaußschen Elementaroperation ändert.
+Seien $A,B\in M_{m\times n}$ und $B$ entsteht durch $A$ durch eine Elementaroperation.\\
+Dann $rank(A)=rank(B)$.\\
+Es wurde bereits gezeigt, dass  $ker A= ker B$ und somit auch $dim ker A= dim ker B$.\\
+$im A$ kann aber ungleich zu $im B$ sein.\\
+Es soll bewiesen werden, dass sich $\dim im(A)$ durch keine der gaußschen Elementaroperation ändert.\\
+Also $\dim im A = \dim im B$
 \subsubsection{Typ 1}
+Tausch von zwei Zeilen mit Indexen $\alpha, \beta$.\\
+Sei $e_{1},\dots ,e_{n}$ die Basis der Spalten von $A$.\\
+Sei ein Isomorphismus definiert:
+\begin{align}
+	T(e_i):=
+	\begin{cases}
+		e_{i},\textnormal{ falls $i\neq \alpha,\beta$} \\
+		e_{\alpha}, \textnormal{ falls $i=\beta$}      \\
+		e_{\beta}, \textnormal{ falls $i=\alpha$}
+	\end{cases}
+\end{align}
+Es gilt: $T(e_{1}),\dots ,T(e_{n})$ ist eine Basis der Spalten von $B$:\\
+Linear unabhängig:\\
+$$
+	\sum_{k=0}^{n}a_{k}T(e_{k})=\sum_{k=0, k\neq \alpha, \beta}^{n}a_{k} e_{k}+ Ta_{\alpha}(e_{\alpha})+a_{\beta}T(e{\beta})=\sum_{k=0}^{n}a_{k}e_{k}=v
+$$
+Erzeugendensystem:\\
+$$
+	\sum_{k=0}^{n}a_{k}T(e_{k})=\sum_{k=0, k\neq \alpha, \beta}^{n}a_{k} e_{k}+ Ta_{\alpha}(e_{\alpha})+a_{\beta}T(e{\beta})=\sum_{k=0}^{n}a_{k}e_{k}, \textnormal{(linear unabhängig)}
+$$
 \subsubsection{Typ 2}
+Es gibt Indexe $\alpha,\beta$, sodass $Z'_{\alpha}=Z_{\alpha}+a\cdot Z_{\beta}, i\neq \alpha\implies Z'_{i}=Z_{i}$, wobei $Z$ Zeilen sind.\medskip
+
+Sei ein Isomorphismus $T:\mathbb{K}^{m}\to \mathbb{K}^{m}$, mit der Formel $$
+	T(e_{\alpha }):= e_{\alpha }+a\cdot e_{\beta }
+$$
+$$
+	\sum_{k}^{n}a_{k }\cdot T(e_{k })=\sum_{k, k\neq \alpha,\beta  }^{n}a_{k}\cdot e_{k}+ a_{\alpha }(e_{\alpha }+a\cdot e_{\beta })+ a_{\beta }e_{\beta }=\sum_{n}^{\infty}
+$$
 \bigskip
 \subsection{Beweis für  Zeilenstufenform S von A}
 \subsubsection{dim im (S)}

@@ -2,6 +2,7 @@
 id: Modellierung
 aliases:
   - aggregation
+  - multiplizitaeten
 tags: []
 ---
 
@@ -23,6 +24,7 @@ tags: []
 - Ein Objekt kann aus anderen Objekten bestehen, diese Objekte, aus denen das Originalobjekt besteht, können aber auch für sich bestehen
 
 **Beispiel**
+
 ![[Pasted image 20251204133027.png]]
 - keine gemeinsamen Methoden, gehören aber trotzdem zusammen
 - kann bspw durch [[ArrayList]] implementiert werden

@@ -1,3 +1,9 @@
+---
+id: Matrix
+aliases: []
+tags: []
+---
+
 # Multiplikation Vektor Matrix
 
 $A=\begin{pmatrix}a_{11}&\dots&a_{1n}\\a_{21}&\dots&a_{2n} \\\dots & \dots &\dots\\a_{m_{1}}&\dots&a_{mn} \end{pmatrix}$
@@ -10,6 +16,7 @@ $A\cdot x=b,x=\begin{pmatrix}x_{1} \\x_{2} \\ \dots \\ x_{n} \end{pmatrix}$ ist 
 
 
 # Matrixmultiplikation
+
 # Satz
 Seien $v_{1},\dots,v_{n}\in \mathbb{K}^{m}$
 sei $A:= [v_{1},\dots,v_{n}]\in M_{mxn}$
@@ -28,3 +35,6 @@ falls $v_{1},\dots,v_{m}\in \mathbb{K}^{n}$ Erzeuhendensystem dann $m\geq n$
 falls $v_{1},\dots,v_{m}\in \mathbb{K}^{n}$ Basis dann $m= n$
 
 verlgleiche: [[Linear unabhängig|verallgemeinerung]]
+
+# Transposition von Matrizen
+
