@@ -6,9 +6,11 @@ tags: []
 # Uni
 
 ## LINa
-- was wenn LGS keine Lösung hat, welche Dimension hat dann im S, also die An 
-    - LGS enthält dann Widerspruch: 
 - invertiert are Matrizen 
+- berechnung der basis von span: transposition von matrizen
+- beweis ranksatz nochmal durcharbeiten 
+- werte von bestimmten koeffizienten in matrixmultiplikation bestimmen
+- reduzierte stufenform
 
 
 
