@@ -1,3 +1,9 @@
+---
+id: Exponentialreihe
+aliases: []
+tags: []
+---
+
 $E(x)  =\sum\limits^{ \infty}_{k=0}=\frac{x^{n}}{n!}$
 d.h. $a_{n} = \frac{x^{n}}{n!}$
 

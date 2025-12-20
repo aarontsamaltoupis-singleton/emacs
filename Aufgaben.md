@@ -3,21 +3,14 @@ id: Aufgaben
 aliases: []
 tags: []
 ---
-
-- [ ] ---
-id: Aufgaben
-aliases: []
-tags: []
----
 # Uni
 
 ## LINa
 - [ ] invertiert are Matrizen 
 - [ ] berechnung der basis von span: transposition von matrizen
-- [x] beweis ranksatz nochmal durcharbeiten 
+- [ ] beweis ranksatz nochmal durcharbeiten 
 - [ ] werte von bestimmten koeffizienten in matrixmultiplikation bestimmen
 - [ ] reduzierte stufenform
-
 
 
 ## Eoomp
@@ -44,14 +37,6 @@ race conditioning, synchronized counting
 - save: leader w
 - obsidian-follow-wikilink: C-c-o
 
-# neovim
+- [ ] # neovim
 ## search pdf
 sudo apt install pdfgrep
-
-
-
-
-
-
-
-

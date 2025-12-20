@@ -1,0 +1,63 @@
+#+TITLE:gym
+
+* Proteinpulver
+gekauft: 10.06.25, ca 12 Tage gehalten 
+
+whey Rossmann 26.64€/kg, 11.99€, 74g Protein, 356k
+
+gekauft 30.06.
+
+* Trainingsplan 6 tage
+- Montag: Beine 1
+  - 3x [[Beugevariation]]
+  - 4x [[Beinbeuger Isolation]]
+  - 2x[[ BeinpresseVariation]]
+  - 2x [[Beinstrecker]]
+  - 3x [[Waden Isolation]]
+
+- Dienstag: Push 1
+  - 3x [[Horizontale Druckbewegung]]
+  - 3x [[Schrägbankvariante]]
+  - 4x [[Seithebevariation]]
+  - 2x [[Flyvariante]]
+  - 3x [[Trizeps Isolation]]
+
+- Mittwoch: Pull 1
+  - 2x [[Horizontale Zugbewegung breit]]
+  - 2x [[Vertikale Zugbewegung eng]]
+  - 3x [[Horizontale Zugbewegung eng]]
+  - 2x [[Vertikale Zugbewegung breit]]
+  - 4x [[Bizeps Isolation]]
+
+- Donnerstag: Pause
+
+- Freitag: Beine 2
+
+- Samstag: Push2
+
+- Sonntag: Pull 2
+
+
+* Übungen
+** Beugevariation
+** Beinbeuger Isolation
+** BeinpresseVariation
+- Beinpresse maschine: 120 kg 12,7
+** Beinstrecker
+- Leg extensions maschine: 70 kg 7,6,5
+** Waden Isolation
+- Beinpresse: 101 kg
+- Wadenmaschine: 50kg, 9
+** Horizontale Druckbewegung
+- Bankdrücken: 13.75 kg, 8,5
+- Brustpresse unten: 50 kg, 7,6
+- brustpresse oben: 60 kg, 8,6
+** Schrägbankvariante
+** Seithebevariation
+- seilzug: 35 kg, 6,5,5
+** Trizeps Isolation
+** Flyvariante
+** Horizontale Zugbewegung breit
+** Vertikale Zugbewegung eng
+** Horizontale Zugbewegung eng
+** Vertikale Zugbewegung breit

@@ -1,0 +1,215 @@
+\documentclass[a4paper,oneside,11pt]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage[ngerman]{babel} % For correct hyphenation
+
+\usepackage{mathtools}
+\usepackage{amssymb,amsmath,amsthm}
+\usepackage[mathscr]{eucal}
+
+\usepackage[textwidth=17cm,top=1.5cm,bottom=1.5cm,nohead]{geometry}
+
+\setlength{\parindent}{0mm} % no paragraph indentation
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Abbreviations
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% single letters in different fonts 
+
+%%%%%%%%%%%% mathematical bold  %%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\bA}{\mathbb{A}}
+\newcommand{\bB}{\mathbb{B}}
+\newcommand{\bC}{\mathbb{C}}
+\newcommand{\bD}{\mathbb{D}}
+\newcommand{\bE}{\mathbb{E}}
+\newcommand{\bF}{\mathbb{F}}
+\newcommand{\bG}{\mathbb{G}}
+\newcommand{\bH}{\mathbb{H}}
+\newcommand{\bI}{\mathbb{I}}
+\newcommand{\bJ}{\mathbb{J}}
+\newcommand{\bK}{\mathbb{K}}
+\newcommand{\bL}{\mathbb{L}}
+\newcommand{\bM}{\mathbb{M}}
+\newcommand{\bN}{\mathbb{N}}
+\newcommand{\bO}{\mathbb{O}}
+\newcommand{\bP}{\mathbb{P}}
+\newcommand{\bQ}{\mathbb{Q}}
+\newcommand{\bR}{\mathbb{R}}
+\newcommand{\bS}{\mathbb{S}}
+\newcommand{\bT}{\mathbb{T}}
+\newcommand{\bU}{\mathbb{U}}
+\newcommand{\bV}{\mathbb{V}}
+\newcommand{\bW}{\mathbb{W}}
+\newcommand{\bX}{\mathbb{X}}
+\newcommand{\bY}{\mathbb{Y}}
+\newcommand{\bZ}{\mathbb{Z}}
+
+
+%%%%%%%%% calligraphic %%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\mc}[1]{\mathcal{#1}}
+
+\newcommand{\cA}{\mathcal{A}}
+\newcommand{\cB}{\mathcal{B}}
+\newcommand{\cC}{\mathcal{C}}
+\newcommand{\cD}{\mathcal{D}}
+\newcommand{\cE}{\mathcal{E}}
+\newcommand{\cF}{\mathcal{F}}
+\newcommand{\cG}{\mathcal{G}}
+\newcommand{\cH}{\mathcal{H}}
+\newcommand{\cI}{\mathcal{I}}
+\newcommand{\cJ}{\mathcal{J}}
+\newcommand{\cK}{\mathcal{K}}
+\newcommand{\cL}{\mathcal{L}}
+\newcommand{\cM}{\mathcal{M}}
+\newcommand{\cN}{\mathcal{N}}
+\newcommand{\cO}{\mathcal{O}}
+\newcommand{\cP}{\mathcal{P}}
+\newcommand{\cQ}{\mathcal{Q}}
+\newcommand{\cR}{\mathcal{R}}
+\newcommand{\cS}{\mathcal{S}}
+\newcommand{\cT}{\mathcal{T}}
+\newcommand{\cU}{\mathcal{U}}
+\newcommand{\cV}{\mathcal{V}}
+\newcommand{\cW}{\mathcal{W}}
+\newcommand{\cX}{\mathcal{X}}
+\newcommand{\cY}{\mathcal{Y}}
+\newcommand{\cZ}{\mathcal{Z}}
+
+
+%%%%%%%%%%%%% mathematical fraktur  %%%%%%%%%%%%%%%%%%%%%
+\newcommand{\mf}[1]{\mathfrak{#1}}
+
+\newcommand{\fA}{\mathfrak{A}}
+\newcommand{\fB}{\mathfrak{B}}
+\newcommand{\fC}{\mathfrak{C}}
+\newcommand{\fD}{\mathfrak{D}}
+\newcommand{\fE}{\mathfrak{E}}
+\newcommand{\fF}{\mathfrak{F}}
+\newcommand{\fG}{\mathfrak{G}}
+\newcommand{\fH}{\mathfrak{H}}
+\newcommand{\fI}{\mathfrak{I}}
+\newcommand{\fJ}{\mathfrak{J}}
+\newcommand{\fK}{\mathfrak{K}}
+\newcommand{\fL}{\mathfrak{L}}
+\newcommand{\fM}{\mathfrak{M}}
+\newcommand{\fN}{\mathfrak{N}}
+\newcommand{\fO}{\mathfrak{O}}
+\newcommand{\fP}{\mathfrak{P}}
+\newcommand{\fQ}{\mathfrak{Q}}
+\newcommand{\fR}{\mathfrak{R}}
+\newcommand{\fS}{\mathfrak{S}}
+\newcommand{\fT}{\mathfrak{T}}
+\newcommand{\fU}{\mathfrak{U}}
+\newcommand{\fV}{\mathfrak{V}}
+\newcommand{\fW}{\mathfrak{W}}
+\newcommand{\fX}{\mathfrak{X}}
+\newcommand{\fY}{\mathfrak{Y}}
+\newcommand{\fZ}{\mathfrak{Z}}
+
+
+%%%%%%%%%%%%% mathematical script (euler)  %%%%%%%%%%%%%%%%%%%%%
+\newcommand{\ms}[1]{\mathscr{#1}}
+
+\newcommand{\sA}{\mathscr{A}}
+\newcommand{\sB}{\mathscr{B}}
+\newcommand{\sC}{\mathscr{C}}
+\newcommand{\sD}{\mathscr{D}}
+\newcommand{\sE}{\mathscr{E}}
+\newcommand{\sF}{\mathscr{F}}
+\newcommand{\sG}{\mathscr{G}}
+\newcommand{\sH}{\mathscr{H}}
+\newcommand{\sI}{\mathscr{I}}
+\newcommand{\sJ}{\mathscr{J}}
+\newcommand{\sK}{\mathscr{K}}
+\newcommand{\sL}{\mathscr{L}}
+\newcommand{\sM}{\mathscr{M}}
+\newcommand{\sN}{\mathscr{N}}
+\newcommand{\sO}{\mathscr{O}}
+\newcommand{\sP}{\mathscr{P}}
+\newcommand{\sQ}{\mathscr{Q}}
+\newcommand{\sR}{\mathscr{R}}
+\newcommand{\sS}{\mathscr{S}}
+\newcommand{\sT}{\mathscr{T}}
+\newcommand{\sU}{\mathscr{U}}
+\newcommand{\sV}{\mathscr{V}}
+\newcommand{\sW}{\mathscr{W}}
+\newcommand{\sX}{\mathscr{X}}
+\newcommand{\sY}{\mathscr{Y}}
+\newcommand{\sZ}{\mathscr{Z}}
+
+
+%%%%%%%%%%    Math operators    %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\Re}{\mathop{\textnormal{Re}}}  % real part
+\renewcommand{\Im}{\mathop{\textnormal{Im}}}  % imaginary part
+
+
+%%%%%%%%%%%  FURTHER COMMANDS  %%%%%%%%%%%%%%%
+
+\newcommand{\Id}{\mathrm{Id}}
+
+
+%%%%%%%%%%%  STUDENT COMMANDS  %%%%%%%%%%%%%%%
+%% Hier können Sie Ihre eigene LaTeX kommandos hinzufügen. %%
+\newtheorem*{theorem*}{Theorem}
+%% this allows for theorems which are not automatically numbered
+\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{example}{Example}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+{\Large\bf Exponentialreihe}\\  tags:\  {hirsch}\\
+\hrule
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bigskip
+\begin{theorem*}Satz 8.1.1
+	Es gibt genau eine Funktion $exp:\mathbb{C} \to \mathbb{C} $ mit  den Folgenden Eigenschaften:
+	\begin{itemize}
+		\item (A) $\exp(z+w)=\exp(z)\cdot \exp(w)$
+		\item (W) $\lim \limits_{z \to\infty}\frac{\exp(z)-1}{z}=1$
+	\end{itemize}
+	Für diese Funktion gilt:
+	\begin{itemize}
+		\item (i) $\exp(z)=\sum_{n=0}^{\infty}\frac{z^{n}}{n!}$
+		\item (ii) $\exp(z)=\lim \limits_{n \to\infty}(1+\frac{z}{n})^{n}$
+		\item $\exp(z)$ ist stetig und $e^{a}=\exp(q), \forall q\in \mathbb{Q}$, wobei $e=\exp(1)$ ist die Eulersche Zahl
+	\end{itemize}
+\end{theorem*}
+Sei eine Funktion $f:\mathbb{C} \to \mathbb{C} $, die die Eigenschaften $(A),(W)$ erfüllt.
+\section*{1.}
+\textbf{1.1}
+$f(z)=f(n\cdot \frac{z}{n})\overset{(A)}{=}f(\frac{z}{n})^{n}$
+\bigskip
+
+
+\textbf{1.2}\\
+Setze $z_{n}:=n(f(\frac{z}{n})-1)$\\
+Es gilt: \\
+\begin{align}
+	\lim \limits_{n \to\infty}z_{n}=  n(f(\frac{z}{n})-1)= & n\cdot (\frac{z}{n})\cdot \underbrace{\left(\frac{f(\frac{z}{n})-1}{\frac{z}{n}}\right)}_{\textnormal{gegen $1$, siehe eigenschaft $W$ für $\exp(\frac{z}{n})$}} \textnormal{\textit{(Erweiterung mit  $\frac{z}{n}$)}} \\
+	=                                                      & z\cdot 1=z
+\end{align}
+\textbf{1.3}
+$$
+	f\left(\frac{z}{n}\right)^{n}=\left(1+\frac{n(f(\frac{z}{n})-1)}{n}\right)^{n} \textnormal{(\textit{Erweiterung})}
+$$
+\section*{Lemma 8.2: Fundamentallemma der Exponentialfunktion}
+\begin{lemma}
+	Für alle $(z_{n})_{n\in \mathbb{N} }$ mit $\lim \limits_{n \to\infty}z_{n}=z$ gilt:
+	\begin{align}
+		\lim \limits_{n \to\infty}(1+\frac{z_{n}}{n})^{n}=\sum_{k=0}^{\infty}\frac{z^{k}}{k!}
+	\end{align}
+\end{lemma}
+
+\begin{proof}
+\end{proof}
+\end{document}
+

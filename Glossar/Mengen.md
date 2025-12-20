@@ -6,7 +6,6 @@ tags:
   - Tao_Analysis1
 ---
 
-
 Alle mathematischen Strukuren können mithilfe von Mengen definiert werden.
 
 
@@ -19,8 +18,9 @@ $\underset{i\in N}{\bigcap }M_{i}:=\{x: \forall i\in I(x\in M_{i})\}$
 
 $I$ ist die **Indexmenge**.
 
-
 # Komplemente
+---
+
 Es seien $A,B\subset X$.
 $A \textbackslash B :=\{ x\in X;(x\in A)\land (x\not\in B) \}$
 Die Menge $A \textbackslash B$ ist das **relative Komplement von $B$ in A.
