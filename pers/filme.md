@@ -52,6 +52,9 @@
 
 # directors
 
+# vibes
+## liminal, bladerunner
+- nostos: the return
 **lists**
 
 ---
