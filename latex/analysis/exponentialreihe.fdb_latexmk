@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1766248475.68456 "exponentialreihe.tex" "exponentialreihe.pdf" "exponentialreihe" 1766248476.13505 0
+["pdflatex"] 1766324228.45028 "exponentialreihe.tex" "exponentialreihe.pdf" "exponentialreihe" 1766324229.01997 0
   "/etc/texmf/web2c/texmf.cnf" 1761339696.19359 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -81,8 +81,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1761384894.61912 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1761384945 8215230 6514d7afde3b09ac06a92e9be8c4c5d4 ""
-  "exponentialreihe.aux" 1766248476.07528 132 063cd77255c8c60019cf8d1b2062afe8 "pdflatex"
-  "exponentialreihe.tex" 1766248474.46931 6413 4ae610719d4e4f3ce6f870f698973284 ""
+  "exponentialreihe.aux" 1766324228.93978 132 15869f333678b7416ae802cca9cf1385 "pdflatex"
+  "exponentialreihe.tex" 1766324227.38879 7182 7afcfbb29f743aedb6ac3ab764bf8c2e ""
   (generated)
   "exponentialreihe.aux"
   "exponentialreihe.log"

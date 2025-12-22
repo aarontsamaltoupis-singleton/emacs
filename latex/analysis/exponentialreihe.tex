@@ -173,14 +173,17 @@
 \begin{theorem*}Satz 8.1.1
 	Es gibt genau eine Funktion $exp:\mathbb{C} \to \mathbb{C} $ mit  den Folgenden Eigenschaften:
 	\begin{itemize}
-		\item (A) $\exp(z+w)=\exp(z)\cdot \exp(w)$
-		\item (W) $\lim \limits_{z \to\infty}\frac{\exp(z)-1}{z}=1$
+		\item (A) $\exp(z+w)=\exp(z)\cdot \exp(w)$ ("Additionseigenschaft")
+		\item (W) $\lim \limits_{z \to 0}\frac{\exp(z)-1}{z}=1$ ("Wachstum")
 	\end{itemize}
+	$(\exp(z)=\sum_{n}^{\infty}\frac{z^{k}}{n!})$\bigskip
+
+
 	Für diese Funktion gilt:
 	\begin{itemize}
 		\item (i) $\exp(z)=\sum_{n=0}^{\infty}\frac{z^{n}}{n!}$
 		\item (ii) $\exp(z)=\lim \limits_{n \to\infty}(1+\frac{z}{n})^{n}$
-		\item $\exp(z)$ ist stetig und $e^{a}=\exp(q), \forall q\in \mathbb{Q}$, wobei $e=\exp(1)$ ist die Eulersche Zahl
+		\item (iii) $\exp(z)$ ist stetig und $e^{q}=\exp(q), \forall q\in \mathbb{Q}$, wobei $e=\exp(1)$ ist die Eulersche Zahl
 	\end{itemize}
 \end{theorem*}
 Sei eine Funktion $f:\mathbb{C} \to \mathbb{C} $, die die Eigenschaften $(A),(W)$ erfüllt.
@@ -209,7 +212,22 @@ $$
 	\end{align}
 \end{lemma}
 
-\begin{proof}
+\begin{proof}\bigskip
+
+	Einzigartigkeit:
+	\begin{align}
+		f(z)\overset{1.1}{=}\lim \limits_{n \to\infty}f(\frac{z}{n})^{n}  \overset{1.3}{=} & \lim \limits_{n \to\infty}  \left(1+\frac{n(f(\frac{z}{n})-1)}{\frac{z}{n}}\right)^{n} \\
+		\overset{8.2}{=}                                                                   & \sum_{k=0}^{\infty}\frac{z^{k}}{k!}=\exp(z)
+	\end{align}
+	$ii)$\bigskip
+	\begin{align}
+		\exp(z)=\sum_{k=0}^{\infty}\frac{z^{k}}{k!}\overset{8.2}{=} & \lim \limits_{n \to\infty}(1+\frac{z_{n}}{n})^{n}             \\
+		                                                            & \overset{1.2}{=}\lim \limits_{n \to\infty}(1+\frac{z}{n})^{n}
+	\end{align}
+
+	$iii)$
+
+
 \end{proof}
 \end{document}
 
