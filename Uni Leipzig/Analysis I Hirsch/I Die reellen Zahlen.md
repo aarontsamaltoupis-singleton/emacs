@@ -218,7 +218,7 @@ Der Zahlenstrahl ist ein anschauliches Modell für $\mathbb{R}$.
 2) $|a|\geq 0$ und $|a| = 0\iff a=0$
 3) $|a\cdot b| = |a|\cdot|b|$
 4) $|a+b|\leq|a|+|b|$ (Dreiecksungleichung)
-5) $||a|-|b||\leq|a-b|$ (umgekehrte Dreiecksungleichung)
+5) $||a|-|b||\leq|a\pm b|\leq|a|+|b|$ (umgekehrte Dreiecksungleichung)
 ### Beweise zu 2.7: 
 1) 
 	1) $$|-a| = \begin{cases}
