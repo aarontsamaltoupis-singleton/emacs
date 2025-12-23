@@ -1,6 +1,6 @@
 ---
-id: bücher
-aliases: []
+id: buecher
+aliases: [buecher]
 tags: []
 ---
 
@@ -10,4 +10,18 @@ tags: []
 - [x] tao: analysis II
 - [x] Introduction to topological manifolds
 
+
+
+
+
+
+
+
+
+
+
+# Fantasy
+- malazan
+- first law
+- piranesi
 
