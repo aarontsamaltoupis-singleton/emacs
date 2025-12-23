@@ -13,4 +13,4 @@ pdftk file1.pdf file2.pdf cat output mergedfile.pdf
 - [[blender]]
 - [[NEOVIM]]
 - xp pen installation:
-
+- deco 01 v2
